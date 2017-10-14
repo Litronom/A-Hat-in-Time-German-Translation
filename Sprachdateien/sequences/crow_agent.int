@@ -1,14 +1,14 @@
 [murder]
-IntroMaidenName0 = Ich grüße dich, mein Eulefreund. Ich glaube, wir noch nicht das Vergnügen hatten?
-IntroMaidenName1 = Wie du erkennen kannst, bin auch ich eine Express-Eule. Ich drehe meinen Kopf besonders oft.
+IntroMaidenName0 = Ich grüße dich, werte Express-Eule. Ich glaube, wir hatten noch nicht das Vergnügen?
+IntroMaidenName1 = Wie du erkennen kannst, bin auch ich eine Express-Eule. Ich drehe meinen Kopf besonders gern.
 IntroMaidenName2 = Von einer Eule zur anderen, wir können doch Geheimnisse teilen, ja? Wie lautet der Mädchenname der Schwester deines Onkels?
-IntroMaidenName3 = Oh, es ist [MotherMaidenName]? Verstehe, verstehe. Das ist der Mädchenname der Schwester eines Onkels, den ich von einem Eulenfreund erwarten habe.
-IntroMaidenName4 = Ich hoffe, ich kann [MotherMaidenName] eines Tages kennenlernen, da wir Express-Eulen die Familie unserer Eulenfreunde gerne kennenlernen.
+IntroMaidenName3 = Oh, es ist [MotherMaidenName]? Verstehe, verstehe. Das ist der Mädchenname der Schwester eines Onkels, den ich von einer werten Express-Eule erwarten habe.
+IntroMaidenName4 = Ich hoffe, ich kann [MotherMaidenName] eines Tages kennenlernen,[br]da wir Express-Eulen die Familie unserer werten Express-Eulen gerne kennenlernen.
 
-BlackboardHelp0 = Hallo, mein Eulefreund. Ich hänge an einer fortgeschrittenen mathematischen und wissenschaftlichen Aufgabe.
+BlackboardHelp0 = Hallo, werte Express-Eule. Ich hänge an einer fortgeschrittenen mathematischen und wissenschaftlichen Aufgabe.
 BlackboardHelp1 = Siehst du diese anspruchsvolle Formel an der Tafel? Ich kann sie nicht lösen.
 BlackboardHelp2 = Kannst du die wissenschaftliche Formel für mich lösen? Was ist das Ergebnis?
-BlackboardHelp3 = Ich verstehe! Die Lösung ist [BlackboardSolution]! Das war doch offensichtlich! Danke, mein Eulenfreund.
+BlackboardHelp3 = Ich verstehe! Die Lösung ist [BlackboardSolution]! Das war doch offensichtlich! Danke, werte Express-Eule.
 BlackboardHelp4 = Und danke auch für die Zustimmung der AGB auf der Rückseite dieser Tafel.
 
 Pet0 = Wusstest du, dass ein Haustier hilft, das Selbstvertrauen zu stärken und Stress abzubauen?
@@ -17,19 +17,19 @@ Pet2 = Leider ist es uns Express-Eulen nicht erlaubt, Haustiere zu halten. Es is
 Pet3 = Aber, wenn du ein Haustier hättest, was glaubst du, wie der Name des Haustieres deines Haustieres aus der Kindheit lauten würde?
 Pet4 = [PetName] ist zweifellos ein interessanter Name für ein Haustier. Sogar für ein Haustier eines Haustieres.
 
-Password0 = Hallo, mein Eulenfreund. Sorgst du dich um deine Sicherheit? Ich sorge mich sehr um Sicherheit.
+Password0 = Hallo, werte Express-Eule. Sorgst du dich um deine Sicherheit? Ich sorge mich sehr um Sicherheit.
 Password1 = Du solltest nicht jeden Fremden deine persönlichen Informationen verraten. Es könnte ein Sicherheitsrisiko sein!
 Password2 = Ich kann dir helfen, deinen Alltag sicherer zu machen. Was ist deine Lieblingskombination aus Buchstaben und Ziffern?
 Password3 = Aha, aha. [FavoritePassword] ist auch meine Lieblingskombination aus Buchstaben und Ziffern.
 
-Username0 = Werter Eulenfreund, hast du dich je gefragt, wie es wäre, ein Superheld zu sein?
+Username0 = Werte Express-Eule, hast du dich je gefragt, wie es wäre, ein Superheld zu sein?
 Username1 = Das wichtigste Merkmal eines Superhelden ist der Name. Jeder ruhmreiche Superheld braucht einen kunstvollen Namen.
-Username2 = Wenn du ein Superheld wärst, was wäre der Name, wenn du in einem Online-Formular mit standardisierten Anforderungen an die Konto-Identifikation eingegeben würdest?
+Username2 = Wenn du ein Superheld wärst, was wäre der Name, wenn du in einem Online-Formular mit[br]standardisierten Anforderungen an die Konto-Identifikation eingegeben würdest?
 Username3 = Der Name ist klasse! Ich kann es mir schon vorstellen: der große [SuperheroName], Retter der Gerechtigkeit!
 Username4 = Ich schreibe mir nur schnell deine Antwort auf...
 
 PrivatePart0 = Wir Express-Eulen haben alle ein Körperteil, für das wir uns schämen. Deshalb zupfen manche Eulen ihre Federn aus.
-PrivatePart1 = Für welches Körperteil schämst du dich am meisten, werter Eulenfreund?
+PrivatePart1 = Für welches Körperteil schämst du dich am meisten, werte Express-Eule?
 PrivatePart2 = Oh, du arme Express-Eule, du brauchst dich nicht zu schämen für [BodyPartName]!
 PrivatePart3 = Aber du solltest [BodyPartName] besser von einem Arzt untersuchen lassen. Ich habe online gelesen, dass das ein Anzeichen für die Vogelgrippe sein könnte.
 PrivatePart3b = Aber du solltest [BodyPartName] besser von einem Arzt untersuchen lassen. Ich habe online gelesen, dass [BodyPartName] mit der Vogelgrippe infiziert sein könnte.
