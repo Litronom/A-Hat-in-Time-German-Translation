@@ -1,42 +1,42 @@
 [Info]
-ActsAvailable0 = Die folgenden Gebiete des
-ActsAvailable1 = Waldes werden verfügbar sein:
+ActsAvailable0 = Die folgenden Abschnitte
+ActsAvailable1 = des Waldes sind dann verfügbar:
 Contract = Vertrag
-Hostage0 = Ich werde folgende Geisel nehmen:
-Hostage1 = ... aber behalte alles, was du auf deinem Weg findest!
+Hostage0 = Ich behalte Folgendes für mich:
+Hostage1 = ... aber du kannst alles was du findest behalten!
 
 [Hat_SnatcherContract_IceWall]
-Title = Säubere den Subcon-Brunnen
-SubconVillage = Finde das Subcon-Dorf
-KillFireSpirits = Töte die Geister
-SubconWell = Säubere den Subcon-Brunnen
-BreakIce = Zerbreche das Eis
-FlowBloom = Lass die Blumen blühen
+Title = Mach den Subcon-Brunnen sauber
+SubconVillage = Finde die Subcon Siedlung
+KillFireSpirits = Bringe die Geister um
+SubconWell = Mach den Subcon-Brunnen sauber
+BreakIce = Brich das Eis
+FlowBloom = Lass die Blumen erblühen
 
 [Hat_SnatcherContract_Bonfires]
-Title = Erhitze das Lagerfeuer für die Feuergeister
-BonfireYellow = Erhitze das gelbe Lagerfeuer
-BonfireGreen = Erhitze das grüne Lagerfeuer
-BonfireBlue = Erhitze das blaue Lagerfeuer
-BonfirePurple = Erhitze das lilane Lagerfeuer
+Title = Entzünde die Feuerstellen der Feuergeister
+BonfireYellow = Zünde das Gelbe Feuer an
+BonfireGreen = Zünde das Grüne Feuer an
+BonfireBlue = Zünde das Blaue Feuer an
+BonfirePurple = Zünde das Violette Feuer an
 
 [Hat_SnatcherContract_Vanessa]
-Title = Bring mir etwas aus der Villa
-EnterManor = Gehe in die Villa
-CompleteManor = Finde heraus, was auf dem Dachboden ist
+Title = Bring mir etwas aus dem Anwesen
+EnterManor = Betritt das Anwesen
+CompleteManor = Finde raus, was auf dem Dachboden ist
 
 [Hat_SnatcherContract_MailDelivery]
-Title = Liefere Subcon-Post
-Deliver = Liefere Pakete zu zehn meiner Lakaien
+Title = Liefere Subcon-Post aus
+Deliver = Liefere Pakete an 10 meiner Untertanen aus
 
 [Hat_SnatcherContract_Toilet]
-Title = Toilette des Untergangs
+Title = Toilette des Verderbens
 DefeatToilet = Besiege den Boss
 
 [Hat_SnatcherContract_GetOut]
-Title = Hau ab
+Title = Verschwinde
 GetOut = Hau ab
-GetOut2 = Hau einfach ab
-ActsAvailableNone = Nichts. Hau ab.
+GetOut2 = Verschwinde einfach
+ActsAvailableNone = Nichts. Hau endlich ab.
 Hostage0 = Bitte
 Hostage1 = und geh weg.

@@ -1,24 +1,24 @@
 [camera_unlock]
-CameraStolen0 = That darn seagull over there took my camera!
-CameraStolen1 = I wouldae donne belly dive over there with [button:duck], but this belly is too precious for sliding on!
+CameraStolen0 = Die blöde Möwe da drüben hat meine Kamera geklaut!
+CameraStolen1 = Ich würd ja mit [button:duck] 'nen Hechtsprung da rüber machen, aber dieser Bauch ist zu kostbar, um drauf zu rutschen!
 
-CameraRetrieved0 = You got my camera? Wow, thanks, kid! But I've actually got a ton of cameras in reserve. I don't need it.
-CameraRetrieved1 = I was just looking for an excuse to yell at seagulls. You can keep it.
+CameraRetrieved0 = Du hast meine Kamera? Wow, danke, Kleine! Aber ich hab eigentlich tonnenweise Reservekameras. Ich brauch die gar nicht.
+CameraRetrieved1 = Ich habe nur nach 'ner Ausrede gesucht, um Möwen anzuschreien. Du kannst die Kamera behalten.
 
 [mafia_town]
-TownIsSoBig0 = This town is so big! The attractions are pretty cool,[br]but I'll tell ya kid, nothing beats going to the moon!
+TownIsSoBig0 = Diese Stadt ist so groß! Die Attraktionen sind ziemlich cool, aber ich sag's dir, Kleine, nichts geht über den Mond!
 
 [finale]
-inside0 = I think this jump is a [br]bit much for me and [br]my camera...
-cameras0 = Y-you're right! I'll use my camera! Let's go!
-touristexterior0 = Look, kid, I gotta be frank. Of all the places I've been visiting, this is unquestionably the worst.
-touristexterior1 = You've gotta go in there and show that girl who's boss[br]so that I can get back on the moon![br]The moon was much more fun than this!
-touristexterior2 = I believe in you, kid.
+inside0 = Der Sprung ist ein[br]bisschen zu weit für mich[br]und meine Kamera....
+cameras0 = D-Du hast recht! Ich benutz meine Kamera! Los geht's!
+touristexterior0 = Hör zu, Kleine, ich bin ganz ehrlich. Von allen Orten, die ich besucht habe, ist der hier ohne Frage der schlimmste.
+touristexterior1 = Geh da rein und zeig dem Mädchen, wer der Boss ist,[br]damit ich wieder auf den Mond zurück kann![br]Da wars viel lustiger als hier!
+touristexterior2 = Ich glaub an dich, Kleine.
 
 [moon]
-moon0 = The moon is pretty alright, kid. It feels great finally being here after all these years!
-moon1 = But that darn Steve from work sent me a postcard from the sun! He says it's great! [br]I can't believe that guy, always trying to one-up me!
+moon0 = Der Mond ist wunderbar, Kleine. Es fühlt sich großartig an, nach all den Jahren endlich hier zu sein!
+moon1 = Aber dieser verflixte Steve, mein Arbeitskollege hat mir 'ne Postkarte von der Sonne geschickt! Ich kanns nicht glauben, dass der Kerl immer versucht, mich zu überbieten!
 
 [subcon]
-touristsubcon0 = This is alright. I can see myself having a picnic here.[br]Still, it's no moon.[br]Gotta get up there so I can send a postcard to Steve from work.
-touristsubcon1 = Steve from work went to the moon last spring. He said it was great.[br]Darn Steve. He always has to one up me.[br] I'll show him with a postcard from the moon!
+touristsubcon0 = Ich kann mir vorstellen, hier ein Picknick zu machen. Trotzdem ist es nicht der Mond. Ich muss da hin, damit ich meinen Arbeitskollegen Steve eine Postkarte schicken kann.
+touristsubcon1 = Kollege Steve hat den Mond letztes Frühjahr besucht. Er sagte, es sei dort super.[br]Dieser verflixte Steve. Immer muss er mich übertrumpfen. Ich werd ihm 'ne Postkarte vom Mond zeigen!

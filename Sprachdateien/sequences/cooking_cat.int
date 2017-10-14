@@ -1,40 +1,41 @@
 [mafia_hq]
-intro0 = Die Mafiosi sind schreckliche Köche![br]Aber keine Angst, [name]Koch Katze[/name] ist da!
-intro1 = Ich bereite hier oben das eigentliche Essen vor, und tausche es mit dem Mafia Essen aus bevor jemand das Mafia Essen zu sich nimmt.
-intro2 = Ich bin mir ziemlich sicher jemand wird sterben sollte er das Essen der Mafiosi probieren!
+intro0 = Die Mafia kann nicht kochen![br]Aber keine Angst, [name]Cooking Cat[/name] ist hier!
+intro1 = Ich bereite das eigentliche Dinner hier oben zu und tausche das Essen aus, bevor irgendjemand die Kochkünste der Mafia isst.
+intro2 = Ich bin mir ziemlich sicher, dass jemand umkommen würde, wenn er das Essen der Mafia isst!
 
-new0 = Du willst in das Theater einbrechen und mit dem Mafia Boss reden?
-new1 = Sorry, geht nicht! Du müsstest durch den Haupteingang, und der ist blockiert. Der einzige Weg wäre durch die Lüftungsschächte.
-new2 = Allerdings brauchst du einen[icon:key][hint]Schlüssel[/hint] dafür. Ich glaube einer der Mafiosi's hat ihn! Ich wette sie geben dir den Schlüssel wenn du ihnen eine [hint]Tasse heissen Kakao[/hint] gibst.
+new0 = Was? Du willst ins Theater einbrechen, um mit dem Mafia-Boss zu reden?
+new1 = Tut mir leid, das geht nicht! Du müsstest durch die Haupttür rein, und die ist blockiert. Der einzige andere Weg wäre durch die Lüftungsschächte.
+new2 = Obwohl du dafür einen [icon:key][hint]Schlüssel[/hint] brauchst. Ich glaube, einer von der Mafia könnte ihn haben! Ich wette, wenn du ihnen eine [hint]heiße Tasse Kakao[/hint] einschenkst, leihen sie ihn dir sicherlich
 
-mask0 = Uhhh... warum trägst du eine Maske von meinem Gesicht?
+mask0 = Ähhh... warum trägst du eine Maske meines Gesichts?
 
-gotkey0 = Du hast den Schlüssel? Fantastisch! Gehe zur Gefrierkammer, dort ist ein Lüftungsschacht den du nun betreten kannst!
+gotkey0 = Hast du den Schlüssel? Toll! Gehe einfach in den Gefrierraum, dort ist ein Lüftungsschacht, den du benutzen kannst!
 
 [spaceship]
-firstdecoration0 = Was ein schönes Raumschiff du hier hast! Sorry fürs einbrechen, ich wollte nur wirklich mal ein Raumschiff von innen beobachten.
-firstdecoration1 = Weisst du, Ich dachte Aliens wären Grün und hätten mehr Hunger auf Fleisch. Aber ich nehme an ihr Aliens kommt in allen größen und Farben, huh?
-firstdecoration2 = Hey, wenn du unseren Planeten erkunden willst, musst du ihn erst verstehen. Sonst weisst du nicht ob du auf Grass oder Treibsand trittst!
-firstdecoration3 = Du weisst nicht wie man [icon:relic][name]Schätze[/name] identifiziert? Keine Angst, [name]Koch Katze[/name] ist hier!
-firstdecoration4 = Du kannst dieses [name]Burger Kissen[/name] haben!
-firstdecoration5 = Du kannst diese [icon:relic][name]Schätze[/name] an einem Podium identifizieren! Wenn du sie in der richtigen Reihenfolge auf dem Podium platzierst, könntest du einen zusammenschluss finden.
-firstdecoration7 = Wenn du einen [icon:relic][name]Schatz[/name] identifizierst,[br]könnte etwas tolles passieren! Man weiss ja nie! Halte also ein Auge offen für Schätze.
-firstdecoration8 = Ich hab dir alles beigebracht was ich über Schätze weiss!
+firstdecoration0 = Was für ein schönes Raumschiff du hier hast! Entschuldige den unerwarteten Einbruch, ich wollte einfach nur sehen, wie so ein außerirdisches Raumschiff aussieht.
+firstdecoration1 = Weißt du, ich habe erwartet, dass Aliens grünlicher aussehen und einen Hunger auf Fleisch haben. Aber ich schätze, ihr Aliens kommt in allen möglichen Formen und Größen, was?
+firstdecoration2 = Hey, wenn du unseren Planeten erkunden willst, musst du ihn zuerst verstehen lernen. Sonst weißt du nicht, ob du auf Gras oder in Treibsand stehst!
+firstdecoration3 = Keine Ahnung, wie man [icon:relic][name]Relikte[/name] erkennt? Keine Angst, [name]Cooking Cat[/name] ist hier!
+firstdecoration4 = Dieses [name]Burger Kissen[/name] gebe ich dir umsonst!
+firstdecoration5 = Du kannst dieses [icon:relic][name]Relikt[/name] auf dem Podium identifizieren! Wenn du es in der richtigen Reihenfolge auf platzierst, kannst du vielleicht etwas damit anfangen.
+firstdecoration7 = Wenn man ein [icon:relic][name]Relikt[/name] identifiziert, könnte irgendwas Tolles passieren! Man kann nie wissen! Also halte Ausschau nach den Relikten.
+firstdecoration8 = Ich habe dir alles erzählt, was ich über Relikte weiß!
 
-cooking0 = Oh, hey! Ich hoffe, du nimmst es mir nicht übel wenn ich deine Küche benutze. Ich dachte mir, ich mach dir ein bisschen Menschen Futter. Da du ja ein Alien bist und so.
-cooking1 = Sag mal, bist mehr eine Steak oder Veggie person?
+cooking0 = Oh, hey! Ich hoffe, es stört dich nicht, wenn ich deine Küche benutze. Ich dachte, ich verwöhne dich mit leckerem Erden-Essen, weil du ja ein Alien und so.
+cooking1 = Bist du eher ein Steak-Typ oder eher ein Gemüse-Typ?
 cooking_q_steak = Steak
-cooking_q_veggie = Veggie
-cooking2_steak = Ist das so? Nun, hoffentlich hast du nicht vor ein paar Erdlinge in der Zukunft zu kochen!
-cooking2_veggie = Ist das so? Ich glaube ihr Aliens habt mehr in Verbindung mit... Ameisen und sowas?
-cooking3 = Wie auch immer, Ich hoffe mein Gericht ist fertig bevor du gehst. Ich will sehen wie gut ich mein Gericht auf einem Alien Herd kochen kann!
-cooking4 = Ich habe gedacht das ein Alien Herd ein bisschen fortgeschrittener sein würde.
+cooking_q_veggie = Gemüse
+cooking2_steak = Ist das so? Nun, ich hoffe, du hast nicht vor, irgendwann mal Erdbewohner zu kochen!
+cooking2_veggie = Ist das so? Ich schätze ihr Aliens habt mehr gemeinsam mit, ähhh, Ameisen und so Zeug?
+cooking3 = Ich hoffe, mein Gericht ist fertig, bevor du gehst. Ich will sehen, wie toll ich ein Gericht mit einem Alien-Ofen kochen kann!
+
+cooking4 = Weißt du, ich habe mir einen Alien-Ofen ein bisschen fortschrittlicher vorgestellt.
 
 [finale]
-outside0 = Ich war zuvor in heißen Küchen, aber noch nie so heiß! Ich habe keine Ahnung wie du es schaffst nicht zu schwitzen, denn ich bin richtig am Kochen.
-outside1 = Vielleicht kannst du die Schlange überspringen und herausfinden, wer hier der Chef ist?
-ninjacat0 = Meow.
+outside0 = Ich war schon in manch heißen Küchen, aber das hier ist ne and're Nummer! Ich weiß nicht, warum du nicht ins Schwitzen gerätst, aber ich koche förmlich.
+outside1 = Vielleicht kannst du die Schlange überspringen und rausfinden, wer hier der Chefkoch ist, Kleine?
+ninjacat0 = Miau.
 ninjacat1 = Rrrreeow.
 ninjacat2 = [wave]Mrrroooowww.[/wave]
-ninjacat3 = Ich nehme an du sprichst diesen Katzen Dialekt nicht. Huh.
-group_counter0 = Yeah! Hau ab!
+ninjacat3 = Ich schätze, du sprichst einfach nicht dem regionalen Katzendialekt. Hm.
+group_counter0 = Ja! Hau ab!

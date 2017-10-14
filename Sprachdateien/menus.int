@@ -1,36 +1,36 @@
 [systemsettings.global]
-SystemSetting_DefaultValue = Default:
-SystemSetting_Value_Checked = Checked
-SystemSetting_Value_Unchecked = Unchecked
-SystemSetting_Requires_Restart = Diese Einstellung erfordert einen Neustart, um wirksam zu werden.
-SystemSetting_ArtStyle_Warning = Warnung: Der Kunststil des Spiels wurde mit dieser Funktion entworfen. Das Ausschalten bietet nur einen geringen Leistungsgewinn. Wir empfehlen, dass diese Option auf ihrem Standardwert belassen wird; Schalten Sie es nur aus, wenn Sie sich absolut sicher sind.
-SystemSetting_Gameplay_Warning = Warnung: Diese Einstellung wird dringend empfohlen, bei der Standardeinstellung belassen zu werden!
+SystemSetting_DefaultValue = Standard:
+SystemSetting_Value_Checked = Angekreuzt
+SystemSetting_Value_Unchecked = Unangekreuzt
+SystemSetting_Requires_Restart = Diese Einstellung setzt einen Neustart voraus.
+SystemSetting_ArtStyle_Warning = Warning: The art style of the game was designed with this feature on. Turning it off provides very little performance gain. We recommend this option is left at its default value; only turn it off if you're absolutely sure.
+SystemSetting_Gameplay_Warning = Warning: This setting is highly recommended to be left at default!
 
 [systemsettings.main]
-GameSettings_Title = Spiel Einstellungen
-GameSettings_Desc = Anpassen von Einstellungen im Zusammenhang mit dem Gameplay.
+GameSettings_Title = Game Settings
+GameSettings_Desc = Adjust settings related to gameplay.
 
-GameSettings_Icon_Singleplayer = Einzelspieler
-GameSettings_Icon_SplitScreen = Geteilter Bildschrim
+GameSettings_Icon_Singleplayer = Single Player
+GameSettings_Icon_SplitScreen = Split Screen
 GameSettings_Icon_Camera = Kamera
 
-GraphicsSettings_Title = Grafik Einstellungen
-GraphicsSettings_Desc = Passen Sie grafische Einstellungen an, die sich auf die Grafik und die Leistung des Spiels auswirken.
+GraphicsSettings_Title = Graphics Settings
+GraphicsSettings_Desc = Adjust graphical settings that affect the game's visuals and performance.
 
-GraphicsSettings_Icon_Performance = Leistung
+GraphicsSettings_Icon_Performance = Performance
 GraphicsSettings_Icon_Rendering = Rendering
-GraphicsSettings_Icon_Effects = Effekte
+GraphicsSettings_Icon_Effects = Effects
 
-AudioSettings_Title = Audio Einstellungen
-AudioSettings_Desc = Passen Sie die Lautstärke jedes Audiotyps an.
+AudioSettings_Title = Audio Settings
+AudioSettings_Desc = Adjust the volume of each type of audio.
 
-AudioSettings_Icon_VoiceActing = Sprecher
-AudioSettings_Icon_Volume = Lautstärke
-AudioSettings_Icon_Music = Musik
+AudioSettings_Icon_VoiceActing = Voice Acting
+AudioSettings_Icon_Volume = Volume
+AudioSettings_Icon_Music = Music
 
-InputSettings_Title = Eingabeeinstellungen
-InputSettings_Desc = Ändere die Eingabemethode, füge neue Gamepads hinzu oder ändere die Tastenbelegung.
-InputSettings_Desc_Console = Passen Sie Einstellungen in Bezug auf Steuerelemente an.
+InputSettings_Title = Input Settings
+InputSettings_Desc = Change your input methods, add new gamepads or rebind keys.
+InputSettings_Desc_Console = Adjust settings related to controls.
 
 InputSettings_Icon_KeyBinds = Input Assist
 InputSettings_Icon_Controllers = Controllers
@@ -39,320 +39,322 @@ InputSettings_Icon_Controllers_XBOX = Controller
 InputSettings_Icon_InvertAxis = Invert Axis
 
 [systemsettings.game]
-Header_Singleplayer = Einzelspieler
+Header_Singleplayer = Single Player
 
 Item_SpeedrunTimer_Title = Speedrun Timer
-Item_SpeedrunTimer_Desc = Verfolgt Ihre Spielzeit pro Level.
+Item_SpeedrunTimer_Desc = Keeps track of your per-level play time.
+Item_SpeedrunTimer_Item_Off = Off
+Item_SpeedrunTimer_Item_On = On
+Item_SpeedrunTimer_Item_GameOnly = Game Timer Only
+Item_SpeedrunTimer_Item_ActOnly = Act Timer Only
 
-Item_SkipCinematics_Title = Überspringbare Cutscenes überspringen
-Item_SkipCinematics_Desc = Wenn Sie es eilig haben oder bereits gesehen haben, können Sie alle überspringbaren Zwischensequenzen überspringen, indem Sie diese Funktion aktivieren. Beachten Sie, dass Sie unabhängig von dieser Einstellung jederzeit die Filmsequenzen überspringen können.
+Item_SkipCinematics_Title = Skip Skippable Cutscenes
+Item_SkipCinematics_Desc = If you're in a hurry, or have already seen them, you can skip all skippable in-game cutscenes by enabling this. Keep in mind that you can still skip cinematics at any time regardless of this setting.
 
-Header_SplitScreen = Geteilter Bildschirm
-Item_AllowSharedScreen_Title = Erlaube Bildschirmfreigabe
-Item_AllowSharedScreen_Desc = Der geteilte Bildschirm kann an bestimmten Stellen des Spiels vorübergehend ausgeschaltet werden.
+Header_SplitScreen = Split Screen
+Item_AllowSharedScreen_Title = Allow Shared Screen
+Item_AllowSharedScreen_Desc = Split screen may be temporarily forced off at certain parts of the game.
 
-Item_SplitScreenMethod_Title = Geteilter Bildschirm Bildschirmausrichtung
+Item_SplitScreenMethod_Title = Split Screen Alignment
 Item_SplitScreenMethod_Item_Horizontal = Horizontal
-Item_SplitScreenMethod_Item_Vertical = Vertikal
-Item_SplitScreenMethod_Desc = Ändern Sie die Art und Weise, wie der Bildschirm mit zwei Spielern geteilt wird.
+Item_SplitScreenMethod_Item_Vertical = Vertical
+Item_SplitScreenMethod_Desc = Change the way the screen is split with two players.
 
-Header_Camera = Kamera
-Header_Camera_Adv = Erweiterte Kamera
+Header_Camera = Camera
+Header_Camera_Adv = Advanced Camera
 
 Item_FieldOfView_Title = Field of View
 Item_FieldOfView_Item_TV = TV (80)
 Item_FieldOfView_Item_PC = PC Monitor (90)
-Item_FieldOfView_Item_Custom = Angepasst...
-Item_FieldOfView_Item_Desc = Höhere Field of View(FoV)-Werte erweitern das periphere Sehen, während niedrigere Werte es einschränken. Höhere FoV-Werte werden empfohlen, wenn Sie sich in der Nähe des Displays befinden, während niedrigere Werte empfohlen werden, wenn Sie sich in der Ferne befinden.
+Item_FieldOfView_Item_Custom = Custom...
+Item_FieldOfView_Item_Desc = Higher Field of View (FoV) values widen your peripheral vision, while lower values narrow it. Higher FoV values are recommended for when you're close to the display, while lower values are recommended when you're at a distance.
 
-Item_CameraAssist_Title = Kamera-Assist
-Item_CameraAssist_Desc = Wenn diese Option aktiviert ist, kann das Spiel die Kamera kontextabhängig steuern, um ein besseres Erlebnis zu erzielen. Empfohlen, wenn Sie manuelle Kamerasteuerungen nicht mögen.
+Item_CameraAssist_Title = Camera Assist
+Item_CameraAssist_Desc = When enabled, allows the game to contextually control your camera for a better experience. Recommended if you dislike manual camera controls.
 
-Item_ControllerTopDown_Title = Top-Down Kamera
-Item_ControllerTopDown_Desc = Wenn diese Option aktiviert ist, zoomt die Kamera aus der Vogelperspektive heraus. Wenn diese Option deaktiviert ist, dreht sich die Kamera frei.
-Item_ControllerTopDown_Item_None = Keines
-Item_ControllerTopDown_Item_Controller = Nur Controller
-Item_ControllerTopDown_Item_Mouse = Nur Maus
-Item_ControllerTopDown_Item_All = Beides
+Item_ControllerTopDown_Title = Top-Down Camera
+Item_ControllerTopDown_Desc = If enabled, the camera will zoom out to a bird's-eye view. If disabled, the camera will rotate freely.
+Item_ControllerTopDown_Item_None = None
+Item_ControllerTopDown_Item_Controller = Controller Only
+Item_ControllerTopDown_Item_Mouse = Mouse Only
+Item_ControllerTopDown_Item_All = Both
 
-Item_CameraSmoothRotation_Title = Kamera Glättung
-Item_CameraSmoothRotation_Desc = Bewegt die Kamerarotation sanft auf den gewünschten Winkel. Dies hilft, Nervositöt und Bewegungskrankheit zu reduzieren (insbesondere für Dritte, die zusehen). Der Effekt ist am meisten mit einer Maus bemerkbar. Ausgestellt für rohe Mauseingaben.
-Item_CameraSmoothRotation_Desc_Console = Bewegt die Kamerarotation sanft auf den gewünschten Winkel. Dies hilft, Nervositöt und Bewegungskrankheit zu reduzieren (insbesondere für Dritte, die zusehen).
-Item_CameraSmoothRotation_Item_VerySlow = Sehr Langsam
-Item_CameraSmoothRotation_Item_Slow = Langsam
+Item_CameraSmoothRotation_Title = Camera Smoothing
+Item_CameraSmoothRotation_Desc = Smoothly moves the camera rotation to the desired angle. This helps reduce jitteriness as well as motion sickness (especially for any third parties watching). Effect is most noticeable with a mouse. Off for raw input.
+Item_CameraSmoothRotation_Desc_Console = Smoothly moves the camera rotation to the desired angle. This helps reduce jitteriness as well as motion sickness (especially for any third parties watching).
+Item_CameraSmoothRotation_Item_VerySlow = Very Slow
+Item_CameraSmoothRotation_Item_Slow = Slow
 Item_CameraSmoothRotation_Item_Medium = Medium
-Item_CameraSmoothRotation_Item_Fast = Schnell
-Item_CameraSmoothRotation_Item_VeryFast = Sehr Schnell
-Item_CameraSmoothRotation_Item_Off = Aus
-Item_CameraSmoothRotation_Item_Instant = Sofort
+Item_CameraSmoothRotation_Item_Fast = Fast
+Item_CameraSmoothRotation_Item_VeryFast = Very Fast
+Item_CameraSmoothRotation_Item_Off = Off
+Item_CameraSmoothRotation_Item_Instant = Instant
 
-Item_CameraFocusDuration_Title = Kamera-Snap-Geschwindigkeit
-Item_CameraFocusDuration_Desc = Wenn Sie den Kamera-Druckknopf drücken, bewegt sich die Kamera hinter Sie. Diese Einstellung steuert, wie schnell diese Bewegung ist.
+Item_CameraFocusDuration_Title = Camera Snap Speed
+Item_CameraFocusDuration_Desc = When you press the camera snap button, the camera moves behind you. This setting controls how fast that movement is.
 
-Item_CameraDistance_Title = Kameradistanz
-Item_CameraDistance_Desc = Steuert, wie weit die Kamera vom Spieler entfernt ist.
-Item_CameraDistance_Item_VeryClose = Sehr Nah
-Item_CameraDistance_Item_Close = Nah
+Item_CameraDistance_Title = Camera Distance
+Item_CameraDistance_Desc = Controls how far away the camera is from the player by default.
+Item_CameraDistance_Item_VeryClose = Very Close
+Item_CameraDistance_Item_Close = Close
 Item_CameraDistance_Item_Standard = Standard
-Item_CameraDistance_Item_Far = Weit
-Item_CameraDistance_Item_VeryFar = Sehr Weit
+Item_CameraDistance_Item_Far = Far
+Item_CameraDistance_Item_VeryFar = Very Far
 
-Item_CameraZoomRestore_Title = Automatische Wiederherstellung der Kamerageschwindigkeit
-Item_CameraZoomRestore_Desc = Wenn Sie sich ein wenig bewegt haben, kehrt die Kamera zu ihrer Standardkamera zurück. Diese Einstellung steuert, wie schnell das passiert.
+Item_CameraZoomRestore_Title = Auto-Restore Camera Speed
+Item_CameraZoomRestore_Desc = When you've moved around for a bit, the camera will return to its default camera distance. This setting controls how fast that happens.
 
 Header_Game_Misc = Misc
-Item_CameraUpscaling_Title = Sofortbildkamera
-Item_CameraUpscaling_Desc = Der Spielgegenstand "Sofortbildkamera" kann Bilder mit höherer Auflösung aufnehmen als das Spiel gerade hat. Ändern Sie diese Option, um festzulegen, wie hochauflösende Bilder aufgenommen werden sollen (auf Kosten von Aufnahmen, die länger dauern).
-Item_CameraUpscaling_Item_0 = Wie im Spiel
+Item_CameraUpscaling_Title = Instant Camera Picture Resolution
+Item_CameraUpscaling_Desc = The game item "Instant Camera" can take pictures at higher resolution than the game is in. Change this option to set at how high a resolution pictures should be taken (at the cost of pictures taking longer to capture).
+Item_CameraUpscaling_Item_0 = Same as game
 
-Header_System = System Einstellungen
-Item_NoSaving_Title = Kein Speichern
-Item_NoSaving_Desc = Das Spiel wird deinen Fortschritt nicht speichern. Dies wird nur empfohlen, wenn Sie einen Speedrun ausführen und es Ihnen egal ist, ob Ihre Speicherdaten nicht erhalten werden.
+Header_System = System Settings
+Item_NoSaving_Title = No Saving
+Item_NoSaving_Desc = The game will not save your progress. This is not recommended unless you're doing a speedrun and do not care if your save data is not preserved.
 
-Item_DevConsole_Title = Entwicklerkonsole
-Item_DevConsole_Desc = Ermöglicht den Zugriff auf die Entwicklerkonsole. Das Spiel muss neu gestartet werden, damit diese Option wirksam wird. Drücken Sie zum Öffnen TAB / Zirkumflex
+Item_DevConsole_Title = Developer Console
+Item_DevConsole_Desc = Allows access to the developer console. The game needs to be restarted for this option to take effect. Press TAB / tilde to open.
 
 [systemsettings.audio]
 Header_Audio = Audio
-Header_Volume = Lautstärke
+Header_Volume = Volume
 
-Item_MusicVolume_Title = Musik Lautstärke
-Item_MusicVolume_Desc = Stellt die Hintergrundmusiklautstärke ein. 100% ist der empfohlene Wert, aber Sie können die Lautstärke darüber hinaus erhöhen.
+Item_MusicVolume_Title = Music Volume
+Item_MusicVolume_Desc = Adjusts background music volume. 100% is the recommended value, but you can increase the volume beyond that.
 
-Item_SoundEffectVolume_Title = Soundeffekt Lautstärke
-Item_SoundEffectVolume_Desc = Passt die Lautstärke der Soundeffekte an. 100% ist der empfohlene Wert, aber Sie können die Lautstärke darüber hinaus erhöhen.
+Item_SoundEffectVolume_Title = Sound Effect Volume
+Item_SoundEffectVolume_Desc = Adjusts the volume of sound effects. 100% is the recommended value, but you can increase the volume beyond that.
 
-Item_VAVolume_Title = Dialog Lautstärke
-Item_VAVolume_Desc = Stellt die Lautstärke des gesprochenen Dialogs ein, einschließlich Nuscheln. 100% ist der empfohlene Wert, aber Sie können die Lautstärke darüber hinaus erhöhen.
+Item_VAVolume_Title = Dialogue Volume
+Item_VAVolume_Desc = Adjusts the volume of spoken dialogue, including mumble. 100% is the recommended value, but you can increase the volume beyond that.
 
-Item_MasterVolume_Title = Gesamtlautstärke
-Item_MasterVolume_Desc = Passt die Lautstärke des gesamten Spiels an. 100% ist der empfohlene Wert, aber Sie können die Lautstärke darüber hinaus erhöhen.
+Item_MasterVolume_Title = Master Volume
+Item_MasterVolume_Desc = Adjusts the volume of the entire game. 100% is the recommended value, but you can increase the volume beyond that.
 
 Item_VAType_Title = Voice Acting Type
-Item_VAType_Desc = [Full]: Alle Charaktere sprechen ganze Sätze. [newline][Mumble]: Charaktere sprechen generischen Kauderwelsch. [newline][None]: Keine Stimme, die wie auch immer wirkt.
-Item_VAType_Item_Full = Voll
-Item_VAType_Item_Mumble = Nuscheln
-Item_VAType_Item_None = Keines
+Item_VAType_Desc = [Full]: All characters speak full sentences.[newline][Mumble]: Characters speak generic gibberish.[newline][None]: No voice acting whatsoever.
+Item_VAType_Item_Full = Full
+Item_VAType_Item_Mumble = Mumble
+Item_VAType_Item_None = None
 
-Item_VolumeOnFocusLost_Title = Out of Focus Lautstärke
-Item_VolumeOnFocusLost_Desc = Passt die Lautstärke des Spiels an, wenn das Spielfenster nicht im Fokus ist.
+Item_VolumeOnFocusLost_Title = Out of Focus Volume
+Item_VolumeOnFocusLost_Desc = Adjusts the volume of the game when the game window is not in focus.
 
-Item_Audio3DPositioning_Title = 3D Positions-Audio
-Item_Audio3DPositioning_Desc = Audio wird in Ihren linken oder rechten Lautsprechern wiedergegeben, abhängig von ihrer Position im 3D-Raum.
+Item_Audio3DPositioning_Title = 3D Positional Audio
+Item_Audio3DPositioning_Desc = Audio is played in your left or right speakers depending on their location in 3D space.
 
 [systemsettings.graphics]
-Tab_Auto = Automatisch
-Tab_Simple = Einfach
-Tab_Detailed = Detailliert
-Tab_Advanced = Fortgeschritten
+Tab_Auto = Automatic
+Tab_Simple = Simple
+Tab_Detailed = Detailed
+Tab_Advanced = Advanced
 
-Header_Window = Fenster
+Header_Window = Window
 
-Item_DisplayResolution_Title = Bildschirmauflösung
-Item_DisplayResolution_Desc = Bestimmt, wie viele Pixel horizontal und vertikal gerendert werden. Eine höhere Auflösung führt zu höherer Qualität, reduziert jedoch die Leistung
+Item_DisplayResolution_Title = Display Resolution
+Item_DisplayResolution_Desc = Determines how many pixels are rendered horizontally and vertically. A higher resolution results in higher quality, but will reduce performance.
 
-Item_WindowType_Title = Fenstertyp
-Item_WindowType_Desc = [Fullscreen]: Das Spiel nimmt die gesamte Monitoranzeige auf.[newline][Windowed]: Das Spiel wird in einem regulären Fenster angezeigt.[newline][Borderless Window]: Wie Fenster, aber ohne Rahmen und die Titelleiste.[newline][Multi-Monitor]: Zeigen Sie das Spiel über mehrere Monitore an.
-Item_WindowType_Item_Fullscreen = Vollbild
-Item_WindowType_Item_Windowed = Fenster
-Item_WindowType_Item_Borderless_Window = Randloses Fenster
+Item_WindowType_Title = Window Type
+Item_WindowType_Desc = [Fullscreen]: The game takes up the entire monitor display.[newline][Windowed]: The game will display in a regular window.[newline][Borderless Window]: Same as windowed, but without borders and the title bar.[newline][Multi-Monitor]: Display the game across multiple monitors.
+Item_WindowType_Item_Fullscreen = Fullscreen
+Item_WindowType_Item_Windowed = Windowed
+Item_WindowType_Item_Borderless_Window = Borderless Window
 Item_WindowType_Item_MultiMonitor = Multi-Monitor
 
 Item_DisplayMonitor_Title = Display Monitor
-Item_DisplayMonitor_Desc = Der Monitor, auf dem das Spiel angezeigt wird.[newline][Default]: Ihr Betriebssystem entscheidet, welcher Monitor angezeigt werden soll.
-Item_DisplayMonitor_Item_Default = Standard
+Item_DisplayMonitor_Desc = The monitor the game will be displayed on.[newline][Default]: Your operating system decides which monitor to display on.
+Item_DisplayMonitor_Item_Default = Default
 
-Item_MultiMonitorSetup_Title = Multi-Monitor Konfiguration
-Item_MultiMonitorSetup_Desc = ändern Sie, auf wie vielen Monitore das Spiel anzeigt werden soll.
+Item_MultiMonitorSetup_Title = Multi-Monitor Setup
+Item_MultiMonitorSetup_Desc = Modify how many monitors the game should display across.
 
-Item_Configure = Konfigurieren...
+Item_Configure = Configure...
 
-Header_RefreshRate = Aktualisierungsrate
+Header_RefreshRate = Refresh Rate
 
-Item_FrameRate_Title = Maximale Bildrate
-Item_FrameRate_Desc = Legt die maximal zulässige Bildrate oder Bilder pro Sekunde (FPS) fest. Spiele sehen am besten aus, wenn die Bildrate konstant ist, aber oft ändert sich das drastisch, je nachdem, was auf dem Bildschirm angezeigt wird. Dies wird durch Einstellen einer maximalen Bildrate vermieden. Gehen Sie nur unter 60 FPS, wenn Ihr System Probleme mit 60 FPS hat.
-Item_FrameRate_Item_Unlocked = Unbegrenzt
+Item_FrameRate_Title = Maximum Frame Rate
+Item_FrameRate_Desc = Sets the maximum allowed frame rate, or frames per second (FPS). Games look best when the frame rate is consistent, but often it changes drastically depending on what is on-screen. This is avoided by setting a maximum frame rate. Only go below 60 FPS if your system is having trouble running at 60 FPS.
+Item_FrameRate_Item_Unlocked = Unlocked
 
 Item_VSync_Title = VSync
-Item_VSync_Desc = Erzwingt, dass das Spiel auf der Aktualisierungsrate Ihres Monitors angezeigt wird. Hierdurch wird der Bildschirmabbruch beseitigt, jedoch auf Kosten einer verzögerten Eingabe. Diese Option wird nur selten empfohlen.
+Item_VSync_Desc = Forces the game to render at your monitor's refresh rate. This gets rid of screen tearing, but at the cost of delayed input. This option is rarely recommended.
 
-Item_Gamme_Title = Gamma Helligkeit
-Item_Gamme_Desc = Konfiguriert die Helligkeit des Spiels. Wenn Sie das Gefühl haben, dass einige Abschnitte des Spiels zu dunkel sind, sollten Sie darüber nachdenken den Wert zu verändern.
+Item_Gamme_Title = Gamma Brightness
+Item_Gamme_Desc = Configures the game's brightness. If you're feeling like some sections of the game are too dark, consider turning this up.
 
-Item_ColorBlindness_Title = Farbblindheitskorrektur
-Item_ColorBlindness_Desc = Für Menschen, die unter Farbenblindheit leiden. Diese Einstellung versucht, die Spielfarben anzupassen.
-Item_ColorBlindness_Off = Aus
+Item_ColorBlindness_Title = Color Blindness Correction
+Item_ColorBlindness_Desc = For people who suffer from color blindness. This setting will attempt to adjust the game colors.
+Item_ColorBlindness_Off = Off
 Item_ColorBlindness_Protanopia = Protanopia
 Item_ColorBlindness_Deuteranopia = Deuteranopia
 Item_ColorBlindness_Tritanopia = Tritanopia
 
-Header_Graphics = Grafik
-Item_GraphicalQuality_Title = Globale visuelle Qualität
-Item_GraphicalQuality_Desc = Bestimmt die visuelle Qualität des Spiels. Höhere Werte bieten eine visuell bessere Erfahrung, können jedoch einige Systeme verlangsamen. Wenn Sie abgehacktes Gameplay haben, versuchen Sie, diese Option am Regler anzupassen.. Wenn Ihr Spiel bei einer niedrigeren Einstellung sehr reibungslos verläuft, sollten Sie die visuelle Qualität erhöhen.
+Header_Graphics = Graphics
+Item_GraphicalQuality_Title = Global Visual Quality
+Item_GraphicalQuality_Desc = Determines the visual quality of the game. Higher values provide a visually better experience, but may slow down some systems. If you're experiencing choppy gameplay, try turning this option down a notch. Similarly, if your game runs very smoothly at a lower setting, try turning the visual quality up.
 
-Item_GraphicalQuality_Item_VeryLow = Hohe Leistung
-Item_GraphicalQuality_Item_Low = Leistung
+Item_GraphicalQuality_Item_VeryLow = High Performance
+Item_GraphicalQuality_Item_Low = Performance
 Item_GraphicalQuality_Item_Medium = Standard
-Item_GraphicalQuality_Item_High = Hohe Qualität
-Item_GraphicalQuality_Item_VeryHigh = Sehr Hohe Qualität
-Item_GraphicalQuality_Item_Ultra = Ultra Qualität
+Item_GraphicalQuality_Item_High = High Quality
+Item_GraphicalQuality_Item_VeryHigh = Very High Quality
+Item_GraphicalQuality_Item_Ultra = Ultra Quality
 
-Item_CharacterQuality_Title = Charakter Qualität
-Item_CharacterQuality_Desc = Bestimmt die visuelle Qualität von Feinden und nicht spielbaren Charakteren. Dies zu senken, bietet nur einen kleinen Leistungsschub, da nicht viele Bereiche viele Charaktere auf einmal zeigen.
+Item_CharacterQuality_Title = Character Quality
+Item_CharacterQuality_Desc = Determines the visual quality of enemies and non-playable characters. Lowering this only provides a small performance boost, as not a lot of areas feature many characters at once.
 
-Item_EnvironmentQuality_Title = Spielwelt Qualität
-Item_EnvironmentQuality_Desc = Bestimmt die visuelle Qualität von 3D-Umgebungswerten und Partikeleffekten. Dies zu verringern, bietet einen signifikanten Leistungsschub.
+Item_EnvironmentQuality_Title = Environment Quality
+Item_EnvironmentQuality_Desc = Determines the visual quality of 3D environment assets and particle effects. Lowering this provides a significant performance boost.
 
-Item_EffectsQuality_Title = Effekte Qualität
-Item_EffectsQuality_Desc = Bestimmt die Anzahl und Qualität von Nachbearbeitungseffekten wie Antialiasing, Bloom und Schärfentiefe. Höhere Qualität bietet bessere und genauere Effekte.
+Item_EffectsQuality_Title = Effects Quality
+Item_EffectsQuality_Desc = Determines the number and quality of post-processing effects, such as anti-aliasing, bloom and depth of field. Higher quality provides better and more accurate effects.
 
-Item_LightingQuality_Title = Schatten Qualität
-Item_LightingQuality_Desc = Bestimmt die visuelle Qualität von Schatten und welche Objekte Schatten werfen dürfen. Höhere Qualität bietet schärfere Schatten und mehr Schattenfänger. Dies zu verringern, bietet einen signifikanten Leistungsschub.
+Item_LightingQuality_Title = Shadow Quality
+Item_LightingQuality_Desc = Determines the visual quality of shadows, and which objects are allowed to cast shadows. Higher quality provides sharper shadows and more shadow casters. Lowering this provides a significant performance boost.
 
 ; Advanced
-Item_AdvancedGraphicsSettings_Title = Erweiterte Grafikeinstellungen
-Item_AdvancedGraphicsSettings_Desc = öffnen Sie das Menü, um alle grafischen Optionen individuell zu konfigurieren.
+Item_AdvancedGraphicsSettings_Title = Advanced Graphics Settings
+Item_AdvancedGraphicsSettings_Desc = Open the menu to configure all graphical options individually.
 
 ; Automatic
-Item_AutomaticGraphicsSettings_Title = Automatische Grafikeinstellungen
-Item_AutomaticGraphicsSettings_Desc = Ihre Grafikeinstellungen werden automatisch während des Spiels konfiguriert und auf optimale Leistung optimiert!
+Item_AutomaticGraphicsSettings_Title = Automatic Graphics Settings
+Item_AutomaticGraphicsSettings_Desc = Your graphics settings are configured automatically as you play, optimized for best performance!
 
-Header_Adv_Characters = Figuren
-Item_Adv_SkelMeshLODBias_Title = Charakter Modell LOD Bias
-Item_Adv_SkelMeshLODBias_Desc = Je weiter Sie sich von den Charaktermodellen entfernen, desto geringer wird die Qualität. Wenn Sie diese Einstellung erhöhen, erhöhen Sie, ab wann dies eintrifft.
+Header_Adv_Characters = Characters
+Item_Adv_SkelMeshLODBias_Title = Character Model LOD Bias
+Item_Adv_SkelMeshLODBias_Desc = As you get further away from character models, they will gradually decrease in quality. Increasing this setting increases how far they can be before this happens.
 
-Item_Adv_Jigglebones_Title = Dynamische Charakterphysik
-Item_Adv_Jigglebones_Desc = Wenn aktiviert, werden Stoff, Haare und andere Komponenten auf bestimmten Charakteren basierend auf ihrer Bewegung simuliert. Für den Spielercharakter umfasst das Dinge wie ihr Umhang, Haare und Reißverschlüsse.
+Item_Adv_Jigglebones_Title = Dynamic Character Physics
+Item_Adv_Jigglebones_Desc = When enabled, cloth, hair and other components on certain characters will be simulated based on their movement. For the player character, this includes things like her cape, hair and zipper.
 
-Item_Adv_CharacterTextureQuality_Title = Charakter Textur Qualität
-Item_Adv_CharacterTextureQuality_Desc = Bestimmt die Auflösung von Texturen für Zeichen. Die niedrigste Einstellung erzwingt eine maximale Texturauflösung von 256x256, während die höchste bis zu 4096x4096 gehen kann.
+Item_Adv_CharacterTextureQuality_Title = Character Texture Quality
+Item_Adv_CharacterTextureQuality_Desc = Determines the resolution of textures on characters. The lowest setting will enforce a maximum texture resolution of 256x256, while the highest can go up to 4096x4096.
 
-Header_Adv_Environment = Spielwelt
-Item_Adv_DetailMode_Title = Spielweltdetails
-Item_Adv_DetailMode_Desc = [High]: Alle Detailmodelle (Laub, ferne Inseln) und Detailpartikeleffekte (Schmetterlinge, Staub) werden angezeigt.[newline][Medium]: Die meisten Detailmodelle werden angezeigt und es werden keine Detailpartikeleffekte angezeigt.[newline][Low]: Es werden keine Detailmodelle oder Partikeleffekte angezeigt.
+Header_Adv_Environment = Environment
+Item_Adv_DetailMode_Title = Environment Detail
+Item_Adv_DetailMode_Desc = [High]: All detail models (foliage, faraway islands) and detail particle effects (butterflies, dust) will display.[newline][Medium]: Most detail models will display, and no detail particle effects will display.[newline][Low]: No detail models or particle effects will display.
 
-Item_Adv_DrawDistance_Title = Sichtweite
-Item_Adv_DrawDistance_Desc = Wenn Sie sich von einigen Umgebungsmodellen weiter entfernen, werden sie allmählich an Qualität abnehmen und schließlich ganz verschwinden. Wenn Sie diese Einstellung erhöhen, erhöhen Sie, wie weit sie reichen können, bevor dies geschieht. Ein höherer Wert bedeutet höhere Qualitätshintergründe, jedoch zu erheblichen Leistungskosten. Diese Option hat großen Einfluss auf die Leistung.
+Item_Adv_DrawDistance_Title = Draw Distance
+Item_Adv_DrawDistance_Desc = As you get further away from some environment models, they will gradually decrease in quality and eventually disappear altogether. Increasing this setting increases how far they can be before this happens. A higher value means higher quality backgrounds, but at a significant performance cost. This option has a big impact on performance.
 
-Item_Adv_AnisotropicFiltering_Title = Anisotrope Filterung
-Item_Adv_AnisotropicFiltering_Desc = Wenn einige Texturen in einem Winkel betrachtet werden (wie Etagen), werden sie verschwommen, je weiter sie von der Kamera entfernt sind. Die anisotrope Filterung verbessert dies für jeden Grad der Anisotropie; Die Anisotropie 16 ist doppelt so scharf wie die Anisotropie von 8.
+Item_Adv_AnisotropicFiltering_Title = Anisotropic Filtering
+Item_Adv_AnisotropicFiltering_Desc = When some textures are viewed at an angle (like floors), they become blurry the further they are away from the camera. Anisotropic Filtering improves this for every degree of anisotropy; anisotropy 16 will be twice as sharp as anisotropy of 8.
 
-Item_Adv_WorldTextureQuality_Title = Welttexturqualität
-Item_Adv_WorldTextureQuality_Desc = Bestimmt die Auflösung von Texturen für die Umgebung. Die niedrigste Einstellung erzwingt eine maximale Texturauflösung von 256x256, während die höchste bis zu 4096x4096 gehen kann.
+Item_Adv_WorldTextureQuality_Title = World Texture Quality
+Item_Adv_WorldTextureQuality_Desc = Determines the resolution of textures on the environment. The lowest setting will enforce a maximum texture resolution of 256x256, while the highest can go up to 4096x4096.
 
-Item_Adv_Fog_Title = Weltnebel
-Item_Adv_Fog_Desc = Rendert Nebel in der Spielwelt. Dies ist in Low-End-Systemen etwas aufwendiger.
+Item_Adv_Fog_Title = World Fog
+Item_Adv_Fog_Desc = Renders fog in the environment. This is somewhat expensive on low-end systems.
 
-Item_Adv_Translucency_Title = Transluzenz
-Item_Adv_Translucency_Desc = Renders transluzente Objekte, Oberflächen und Partikel.
-Item_Adv_Translucency_None = Keine
+Item_Adv_Translucency_Title = Translucency
+Item_Adv_Translucency_Desc = Renders translucent objects, surfaces and particles.
+Item_Adv_Translucency_None = None
 Item_Adv_Translucency_Normal = Single Pass
 Item_Adv_Translucency_SepTrans = Double Pass
 
-Header_Adv_Lighting = Beleuchtung
+Header_Adv_Lighting = Lighting
 
-Item_Adv_MaxShadowResolution_Title = Schattenauflösung
-Item_Adv_MaxShadowResolution_Desc = Bestimmt die Schattenbeschaffenheitsauflösung pro Objekt.
+Item_Adv_MaxShadowResolution_Title = Shadow Resolution
+Item_Adv_MaxShadowResolution_Desc = Determines the per-object shadow texture resolution.
 
-Item_Adv_DominantDirectionalLight_Title = Spielwelt Beleuchtung / Schattenqualität
-Item_Adv_DominantDirectionalLight_Desc = Der Renderer für Umgebungsbeleuchtung und Schatten.
+Item_Adv_DominantDirectionalLight_Title = Environment Lighting/Shadow Quality
+Item_Adv_DominantDirectionalLight_Desc = The renderer to use for environment lighting and shadows.
 
-Item_Adv_ParticleShadows_Title = Partikelschatten
-Item_Adv_ParticleShadows_Desc = Ob Partikel Schatten werfen sollten.
-Item_Adv_ParticleShadows_Item_None = Keine
-Item_Adv_ParticleShadows_Item_Player = Nur Spieler
-Item_Adv_ParticleShadows_Item_Full = Alle
+Item_Adv_ParticleShadows_Title = Particle Shadows
+Item_Adv_ParticleShadows_Desc = Whether particles should cast shadows.
+Item_Adv_ParticleShadows_Item_None = None
+Item_Adv_ParticleShadows_Item_Player = Player Only
+Item_Adv_ParticleShadows_Item_Full = Full
 
-Item_Adv_AllowDetailShadows_Title = Detailschatten
-Item_Adv_AllowDetailShadows_Desc = Erlaubt kleinere Objekte (wie Sammlerstücke), Schatten zu werfen. Qualität und Sichtbarkeit hängen von der Schattenauflösung ab.
+Item_Adv_AllowDetailShadows_Title = Detail Shadows
+Item_Adv_AllowDetailShadows_Desc = Allows minor objects (like collectibles) to cast shadows. Quality and visibility depends on Shadow Resolution.
 
-Header_Adv_Effects = Post-Processing-Effekte
-Item_Adv_DoF_Title = Tiefenschärfe
-Item_Adv_DoF_Desc = Die Schärfentiefe wendet eine Hintergrundunschärfe an. Sie können sich auf das konzentrieren, was vor Ihnen liegt, und entfernen visuelle Geräusche von weit entfernten Objekten. Die komplexe Schärfentiefe ist präziser, jedoch mit viel höheren Leistungskosten.
-Item_Adv_DoF_Item_None = Keine
-Item_Adv_DoF_Item_Simple = Einfach
+Header_Adv_Effects = Post-Processing Effects
+Item_Adv_DoF_Title = Depth of Field
+Item_Adv_DoF_Desc = Depth of Field applies a blur to background scenery. It allows you to focus on what is in front of you, and removes visual noise from objects far away. Complex Depth of Field is more precise, but at a much higher performance cost.
+Item_Adv_DoF_Item_None = None
+Item_Adv_DoF_Item_Simple = Simple
 Item_Adv_DoF_Item_Standard = Standard
-Item_Adv_DoF_Item_Complex = Komplex
+Item_Adv_DoF_Item_Complex = Complex
 
 Item_Adv_Bloom_Title = Bloom
-Item_Adv_Bloom_Desc = Wenn aktiviert, erzeugen helle Bereiche einen Glüheffekt.
+Item_Adv_Bloom_Desc = When enabled, bright areas will produce a glow effect.
 
-Item_Adv_LightShafts_Title = Lichtstrahlen
-Item_Adv_LightShafts_Desc = Die Sonne und andere helle Lichtquellen erzeugen Strahlen, die von Objekten vor der Kamera blockiert werden können.
+Item_Adv_LightShafts_Title = Light Rays
+Item_Adv_LightShafts_Desc = The sun, and other bright light sources, will produce rays that can be blocked by objects in front of the camera.
 
-Item_Adv_ObjectMotionBlur_Title = Bewegungsunschärfe pro Objekt
-Item_Adv_ObjectMotionBlur_Desc = Sich schnell bewegende Objekte verschwimmen in die Richtung, in die sie sich bewegen. Dies wird auch für Charakter angewendet. Die Kamerabewegung wird dadurch nicht verwackelt (das ist Bildschirmunschärfe).
+Item_Adv_ObjectMotionBlur_Title = Per-Object Motion Blur
+Item_Adv_ObjectMotionBlur_Desc = Fast-moving objects get blurred in the direction that they're moving. This is also applied per-limb on characters. This does not blur camera movement at all (that's Screen Blur).
 
-Item_Adv_RadialBlur_Title = Kreisförmige Unschärfe
-Item_Adv_RadialBlur_Desc = Wenn aktiviert, werden Explosionen und Angriffe eine Unschärfe um den Effektbereich erzeugen.
+Item_Adv_RadialBlur_Title = Radial Blur
+Item_Adv_RadialBlur_Desc = When enabled, explosions and attacks will create a blur around the area of effect.
 
-Item_Adv_ScreenBlur_Title = Bildschirmunschärfe
-Item_Adv_ScreenBlur_Desc = Wenn sich die Kamera schnell bewegt, verschwimmt der Hintergrund basierend auf Bewegungsrichtung und Tiefe. Objekte in der Ferne verwischen mehr als die direkt vor der Kamera.
+Item_Adv_ScreenBlur_Title = Screen Blur
+Item_Adv_ScreenBlur_Desc = When the camera is moving rapidly, the background is blurred based on movement direction and depth; objects in the distance blur more than ones right in front of the camera.
 
-Item_Adv_Distortion_Title = Verzerrung
-Item_Adv_Distortion_Desc = Ermöglicht, dass einige transparente Oberflächen (z. B. Wasser) die dahinter liegenden Elemente verzerren.
+Item_Adv_Distortion_Title = Distortion
+Item_Adv_Distortion_Desc = Allows some transparent surfaces (such as water) to distort what's behind them.
 
-Item_Adv_AA_Title = Kantenglättung
-Item_Adv_AA_Desc = 
-Wenn diese Option aktiviert ist, wird eine der ausgewählten Methoden zum Glätten von Modellkanten angewendet. FXAA0 ist das billigste, während FXAA5 und MLAA am teuersten sind. Diese Option sollte nur auf Keine und FXAA0 gesetzt werden, wenn Sie nicht mit den verschiedenen Methoden vertraut sind.
-Item_Adv_AA_Item_None = Keine
+Item_Adv_AA_Title = Anti-Aliasing
+Item_Adv_AA_Desc = When enabled, applies one of the selected methods of smoothing model edges. FXAA0 is the cheapest, while FXAA5 and MLAA are the most expensive. This option should not be set to anything but None and FXAA0 unless you're familiar with the different methods.
+Item_Adv_AA_Item_None = None
 
 Item_Adv_LensFlares_Title = Lens Flares
-Item_Adv_LensFlares_Desc = Blendenfleck werden auf die Umgebung gerendert, um starkes Licht anzuzeigen (wie z. B. die Sonne).
+Item_Adv_LensFlares_Desc = Sprites rendered on top of the environment to indicate strong light (such as the sun).
 
-Item_Adv_Decals_Title = Abziehbilder
-Item_Adv_Decals_Desc = Abziehbilder sind 2D-Bilder, die auf eine Oberfläche projeziert werden, um diese Oberfläche detaillierter erscheinen zu lassen (wie Risse, Schmutz oder Graffiti).
+Item_Adv_Decals_Title = Decals
+Item_Adv_Decals_Desc = Decals are 2D images projected onto a surface to make that surface appear more detailed (such as cracks, dirt or graffiti).
 
-Item_Adv_DynamicLights_Title = Dynamische Lichter
-Item_Adv_DynamicLights_Desc = Echtzeit-Lichteffekte, wie z. B. Moving Lights oder Explosionen.
+Item_Adv_DynamicLights_Title = Dynamic Lights
+Item_Adv_DynamicLights_Desc = Real-time lighting effects, such as moving lights or explosions.
 
-Item_Adv_ConservativeShadowBounds_Title = Präzise Schattengrenzen
-Item_Adv_ConservativeShadowBounds_Desc = Wenn aktiviert, versucht das Spiel genauer zu verfolgen, wo Schatten landen.
+Item_Adv_ConservativeShadowBounds_Title = Precise Shadow Bounds
+Item_Adv_ConservativeShadowBounds_Desc = If enabled, the game will try to more precisely trace where shadows land.
 
-Item_Adv_SeparateTranslucency_Title = Zweilagige Transluzenz
-Item_Adv_SeparateTranslucency_Desc = Die Transluzenz wird durchgeführt, bevor das Depth-of-Field-Rendering bestanden wird. Infolgedessen werden viele lichtdurchlässige Objekte verschwommen, selbst wenn sie direkt vor Ihnen liegen. Durch die zweilagige Transluzenz können diese Objekte gerendert werden, nachdem das Depth of Field-Rendering bestanden wurde.
+Item_Adv_SeparateTranslucency_Title = Two-Layer Translucency
+Item_Adv_SeparateTranslucency_Desc = Translucency is performed before the Depth of Field rendering pass. As a result, a lot of translucent objects get blurred, even if they're right in front of you. Two-layer translucency allows those objects to render after the Depth of Field rendering pass.
 
-Item_Adv_Vignette_Title = Kamera Vignette
-Item_Adv_Vignette_Desc = Fügt einen subtilen schwarzen Rand um den Bildschirm hinzu.
+Item_Adv_Vignette_Title = Camera Vignette
+Item_Adv_Vignette_Desc = Adds a subtle black border around the screen.
 
-Item_Adv_RigidBody_Title = Simulierte Weltphysik
-Item_Adv_RigidBody_Desc = Wenn aktiviert, werden Trümmer und starre Körper über PhysX simuliert. Mach keine Sorgen; PhysX funktioniert problemlos, unabhängig davon, welche Grafikkarte Sie haben.
-
+Item_Adv_RigidBody_Title = Simulated World Physics
+Item_Adv_RigidBody_Desc = When enabled, debris and rigid bodies will be simulated via PhysX. Don't worry; PhysX will work just fine regardless of what graphics card you have.
 
 Item_Adv_SuperSampling_Title = Supersampling
-Item_Adv_SuperSampling_Desc = Erhöht die Grafikleistung
+Item_Adv_SuperSampling_Desc = Upscales screen render.
 
-Item_Adv_PP_Downsample_Title = Post Processing Auflösung
-Item_Adv_PP_Downsample_Desc = Downsampling-Post-Verarbeitung, um die Leistung zu verbessern.
+Item_Adv_PP_Downsample_Title = Post Processing Resolution
+Item_Adv_PP_Downsample_Desc = Downsampling post processing to improve performance.
 
-Header_Adv_Game = Spiel
-Item_Adv_PredictiveCamera_Title = Vorausschauende verfolgungs Kamera
-Item_Adv_PredictiveCamera_Desc = Verbessert das Glätten der Kamera, indem Sie die Geometrie in der Nähe verfolgt.
+Header_Adv_Game = Game
+Item_Adv_PredictiveCamera_Title = Predictive Traced Camera
+Item_Adv_PredictiveCamera_Desc = Improves camera smoothing by tracing against nearby geometry.
 
 [systemsettings.input]
-Header_Input = Eingabe
+Header_Input = Input
 
 Item_OnTheFlyController_Title = Auto-Select Controller
-Item_OnTheFlyController_Desc = Wenn diese Option aktiviert ist und der Einzelspieler gespielt wird, ändert sich der aktive Controller automatisch, wenn Sie eine Taste an einem neuen Controller drücken.
+Item_OnTheFlyController_Desc = If enabled and playing single player, the active controller will automatically change when you press a button on a new controller.
 
-Item_ManageDefinitions_Title = Controller-Definitionen
-Item_ManageDefinitions_Title_Item = Definitionen verwalten
-Item_ManageDefinitions_Desc = Wir haben Unterstützung für eine Reihe von gängigen Controllern hinzugefügt, aber wenn Sie einen ungewöhnlichen Controller verwenden, müssen Sie ihn hier einrichten, um ihn verwenden zu können.
+Item_ManageDefinitions_Title = Controller Definitions
+Item_ManageDefinitions_Title_Item = Manage Definitions
+Item_ManageDefinitions_Desc = We've added support for a number of common controllers, but if you're using an uncommon controller, you will need to set it up here in order to use it.
 
-Item_MouseSensitivity_Title = Maus-Empfindlichkeit
-Item_MouseSensitivity_Desc = Je höher die Empfindlichkeit, desto mehr Auswirkungen hat eine Mausbewegung auf das Spiel.
+Item_MouseSensitivity_Title = Mouse Sensitivity
+Item_MouseSensitivity_Desc = The higher the sensitivity, the more of an impact mouse movement has on the game.
 
-Item_InvertCameraX_Controller_Title = Horizontale Kamera invertieren (Controller)
-Item_InvertCameraX_Controller_Desc = Kehrt die horizontale Bewegung um, wenn ein Controller verwendet wird
-Item_InvertCameraX_Controller_Desc_Console = Kehrt die horizontale Kamerabewegung um
-Item_InvertCameraY_Controller_Title = Vertikale Kamera invertieren (Controller)
-Item_InvertCameraY_Controller_Desc = Kehrt die vertikale Bewegung bei Verwendung eines Controllers um
-Item_InvertCameraY_Controller_Desc_Console = Kehrt die vertikale Kamerabewegung um
-Item_Rumble_Controller_Title = Vibration
-Item_Rumble_Controller_Desc = Ob Vibrationen während bestimmter Aktionen zugelassen werden sollen
+Item_InvertCameraX_Controller_Title = Invert Horizontal Camera (Controllers)
+Item_InvertCameraX_Controller_Desc = Inverts horizontal movement when using a controller
+Item_InvertCameraX_Controller_Desc_Console = Inverts horizontal camera movement
+Item_InvertCameraY_Controller_Title = Invert Vertical Camera (Controllers)
+Item_InvertCameraY_Controller_Desc = Inverts vertical movement when using a controller
+Item_InvertCameraY_Controller_Desc_Console = Inverts vertical camera movement
+Item_Rumble_Controller_Title = Rumble
+Item_Rumble_Controller_Desc = Whether to allow vibrations during specific actions
 
-Item_InputAssist_Title = Eingabehilfe
-Item_InputAssist_Desc = Das Spiel wird versuchen, die Eingabeerfahrung zu verbessern, indem Eingaben, die zu früh auf ein kleines Stück gedrückt wurden, gespeichert werden, sowie versehentliche doppelte Tastendrücke zu vermeiden.
+Item_InputAssist_Title = Input Assist
+Item_InputAssist_Desc = The game will attempt to improve the input experience by storing inputs that were pressed a tiny bit too soon, as well as try to avoid accidental double button presses.
 
 [alpha_warnings]
 alpha0 = Thank you so much for participating in the first [name]A HAT IN TIME 2017 SPEEDRUNNING EVENT[/name]! Keep in mind this preview is all about going fast, no time to stop and smell the flowers!
@@ -367,60 +369,62 @@ BrokenControllerSoftware0 = [name]ATTENTION[/name][br]You're currently using 3rd
 BrokenControllerSoftware1 = Consider turning off the software you're using, and see if A Hat in Time works with your controller by default!
 
 [Loadout]
-TimePieces_Main = Main
-TimePieces_Bonus = Zeitriss
-Loadout_Swap_Hat = Wähle einen Hut aus!
-Loadout_Swap_Mask = Wähle eine Maske aus!
-Loadout_Swap_Skin = Wähle eine Farbe aus!
-Loadout_Swap_Ability = Wähle eine Fähigkeit aus!
-Loadout_Swap_Badge = Wähle einen Anstecker aus!
+TimePieces_Main = Haupt:
+TimePieces_Bonus = Zeitriss:
+Loadout_Swap_Hat = Wähle einen Hut!
+Loadout_Swap_Mask = Wähle eine Maske!
+Loadout_Swap_Skin = Wähle ein Farbe!
+Loadout_Swap_Ability = Wähle eine Fähigkeit!
+Loadout_Swap_Badge = Wähle einen Badge!
 Loadout_BadgeLocked = Du brauchst [yarn][num] [icon:yarn]Garn[/yarn] um das zu nähen!
-Loadout_BadgeLocked_Affordable = Drücke [button:menuconfirm] zum [yarn][num] [icon:yarn]Garn[/yarn] zu benutzen um zu nähen!
+Loadout_BadgeLocked_Affordable = Drücke [button:menuconfirm] um mit [yarn][num] [icon:yarn]Garn[/yarn] diesen Hut zu nähen!
 
 Loadout_AbilityActivation_Trigger = Aktivieren
 Loadout_AbilityActivation_Jump = Sprung
-Loadout_AbilityActivation_Automatic = Automatisch
+Loadout_AbilityActivation_Automatic = Auto
 Loadout_AbilityActivation_Attack = Attacke
 Loadout_AbilityActivation_Weapon = Waffe
 
-Options_ReturnToHUB_Q = Speichern & zurück zum Hub?
-Options_QuitGame_Q = Das Spiel verlassen?
-Options_QuitGame_InGame_Q = Save & Exit to...
-Options_QuitGame_InGame_A_MainMenu = Hauptmenu!
+Options_ReturnToHUB_Q = Speichern & zum Hub zurück?
+Options_ReturnToHUB_NoSaving_Q = Zum Hub zurück?
+Options_QuitGame_Q = Spiel Verlassen?
+Options_QuitGame_InGame_Q = Speichern & Verlassen zum...
+Options_QuitGame_InGame_NoSaving_Q = Verlassen ohne zu Speichern zum...
+Options_QuitGame_InGame_A_MainMenu = Hauptmenü!
 Options_QuitGame_InGame_A_Desktop = Desktop!
-Options_QuitGame_InGame_A_Return = Zurück!
+Options_QuitGame_InGame_A_Return = Abbruch!
 
 [MainMenu]
 FileSelect_File = Datei
-FileSelect_Progress_Completed = Vollständig
-FileSelect_New = Neue Datei erstellen
+FileSelect_Progress_Completed = Komplett
+FileSelect_New = Neue Datei anlegen
 
-Action_Delete = Spielstand löschen
-Action_Delete_Q = Bist du sicher, dass du[br]Spielstand [id]löschen willst?
+Action_Delete = Datei löschen
+Action_Delete_Q = Bist du sicher, dass du[br]Datei [id] löschen willst?
 
-Action_NewGame = Neues Spiel starten
-Action_NewGame_Q = Neues Spiel starten?
+Action_NewGame = Starte Neues Spiel
+Action_NewGame_Q = Ein neues Spiel beginnen?
 
 Action_SwitchUser = Benutzer wechseln
 
 [ItemUnlock]
-ItemUnlock_Badge = Neuer Hut genäht, probier ihn an!
+ItemUnlock_Badge = Neuer Hut genäht!
 ItemUnlock_Rare = Dieses Flair ist selten!
-ItemUnlock_VeryRare = Dieses Flair ist sehr selten!
-ItemUnlock_Flair = Du kannst jetzt das Aussehen dieses Items austauschen!
+ItemUnlock_VeryRare = Dieses Flair ist super selten!
+ItemUnlock_Flair = Du kannst nun das Aussehen dieses Gegenstands verändern!
 
 [InventoryCamera]
-Help_TakePicture = Ein Bild machen
+Help_TakePicture = Foto schießen
 Help_ChangeFilter = Filter ändern
-Help_ChangeDoF = Schärfentiefe ändern
-Help_EnableDoF = Tiefenschärfe aktivieren
-Help_DisableDoF = Schärfentiefe deaktivieren
+Help_ChangeDoF = Verändere Tiefenunschärfe
+Help_EnableDoF = Aktiviere Tiefenunschärfe
+Help_DisableDoF = Deaktiviere Tiefenunschärfe
 Help_Exit = Verlassen
 
 Msg_Filter = Filter
-Msg_DoF = Depth of Field
-Msg_EnabledDoF = Depth of Field an
-Msg_DisabledDoF = Depth of Field aus
+Msg_DoF = Tiefenunschärfe
+Msg_EnabledDoF = Tiefenunschärfe aktiviert
+Msg_DisabledDoF = Tiefenunschärfe deaktiviert
 
 Filter0 = Action Blue
 Filter1 = Dreamy
@@ -436,34 +440,34 @@ Filter10 = Sunset
 Filter11 = #NoFilter
 
 [ActSelect]
-Help_GoToAct = Akt beginnen
-Help_UnlockAct = Akt freischalten
-Help_GoToBonus = Zeitriss betreten
-Help_GoToFreeRoam = Starte Free Roam
-Help_GoToBoss = Starte Boss
-Help_GoToMiniBoss = Starte Mini Boss
-Help_SeeDreamWorld = Foto anschauen
-Help_UnSeeDreamWorld = Foto schließen
+Help_GoToAct = Beginne Akt
+Help_UnlockAct = Schalte Akt frei
+Help_GoToBonus = Betritt den Riss in der Zeit
+Help_GoToFreeRoam = Beginne freies Erkunden
+Help_GoToBoss = Beginne Boss
+Help_GoToMiniBoss = Beginne Mini Boss
+Help_SeeDreamWorld = Sieh das Foto an
+Help_UnSeeDreamWorld = Foto weglegen
 Help_Exit = Verlassen
 
-Action_EnterCompletedAct = Du hast disen Akt schon abgeschlossen. Trotzdem betreten?
-Action_MissingItem = Dir fehlt ein Schlüsselitem [br]dadurch wird es dir nicht möglich sein diesen Akt abzuschließen. Trotzdem betreten?
+Action_EnterCompletedAct = Du hast diesen Akt bereits beendet. Trotzdem betreten?
+Action_MissingItem = Dir fehlt ein wichtiger Gegenstand[br]und du wirst den Akt nicht absolvieren können. Trotzdem betreten?
 
-StandOff_Confirm_Conductor0 = Der Schaffner hat den Highscore! Ihn als Sieger bestätigen?
-StandOff_Confirm_Conductor1 = Er ist irgendwie selbstgefällig darüber. Sicher willst du, dass er gewinnt?
+StandOff_Confirm_Conductor0 = Der Schaffner hat den Highscore! Ihn als Gewinner bestätigen?
+StandOff_Confirm_Conductor1 = Er ist ziemlich eingebildet. Sicher, dass er gewinnen soll?
 
-StandOff_Confirm_DJGrooves0 = DJ Grooves hat den Highscore! Ihn als Sieger bestätigen?
-StandOff_Confirm_DJGrooves1 = Sein Tanz ist irgendwie abscheulich. Sicher willst du, dass er gewinnt?
+StandOff_Confirm_DJGrooves0 = DJ Grooves hat den Highscore! Ihn als Gewinner bestätigen?
+StandOff_Confirm_DJGrooves1 = Sein Getanze ist irgendwie schrecklich. Sicher, dass er gewinnen soll?
 
-StandOff_Confirm_Draw0 = Es ist ein unentschieden! Willst du die Entscheidung dem Glück überlassen, wer der Gewinner ist?
-StandOff_Confirm_Draw1 = Bist du sicher? Es wird völlig zufällig sein!
+StandOff_Confirm_Draw0 = Unentschieden! Den Gewinner zufällig bestimmen?
+StandOff_Confirm_Draw1 = Bist du dir sicher? Es wird komplett zufällig sein!
 
 [Shops]
-Item_Cost = Kosten
+Item_Cost = Preis
 My_Currency = Ich habe
-Action_BuyItem = Item kaufen
-Action_LeaveShop = Laden verlassen
-Action_ViewItem = Item anschauen
+Action_BuyItem = Gegenstand kaufen
+Action_LeaveShop = Shop Verlassen
+Action_ViewItem = Gegenstand ansehen
 Action_Back = Zurück
 
 [Common]
@@ -472,52 +476,52 @@ MenuDecline = Nein!
 
 [LevelChange]
 RetryLevelQuestion = Diesen Akt wiederholen?
-RetryLevel_Yes = Wiederholen
+RetryLevel_Yes = Ja, Nochmal
 RetryLevel_HUB = Zurück zum Hub
 
 [DecorationMap]
-DecorationMap_NoMarkers = Keine Reliquien in der Nähe
+DecorationMap_NoMarkers = Kein Relikt in der Nähe
 
 [Murder]
-ClockRing0 = 1 EULEN STUNDE ÜBRIG
-ClockRing1 = 30 EULEN MINUTEN ÜBRIG
-ClockRing2 = DIE ZEIT IST UM
+ClockRing0 = 1 Eulenstunde übrig
+ClockRing1 = 30 Eulenminuten übrig
+ClockRing2 = ZEIT UM
 
-Suspect0 = DIE KRÄHEN SIND JETZT VERFÜGBARE VERDÄCHTIGE!
-Suspect1 = DIE EXPRESS EULEN SIND JETZT VERFÜGBARE VERDÄCHTIGE!
-Suspect2 = DER SCHAFFNER IST JETZT EIN VERFÜGBARER VERDÄCHTIGER!
-Suspect3 = ICH BIN JETZT EIN VERFÜGBARER VERDÄCHTIGER!
-Suspect4 = [MotherMaidenName] IST JETZT EIN VERFÜGBARER VERDÄCHTIGER!
-Suspect5 = DAS OPFER IST JETZT EIN VERFÜGBARER VERDÄCHTIGER!
+Suspect0 = DIE KRÄHEN SIND NUN VERFÜGBAR ALS VERDÄCHTIGE!
+Suspect1 = DIE EXPRESS-EULEN SIND NUN VERFÜGBAR ALS VERDÄCHTIGE!
+Suspect2 = DER SCHAFFNER IST NUN VERFÜGBAR ALS VERDÄCHTIGER!
+Suspect3 = ICH BIN NUN VERFÜGBAR ALS VERDÄCHTIGE!
+Suspect4 = [MotherMaidenName] IST NUN VERFÜGBAR ALS VERDÄCHTIGE!
+Suspect5 = DAS OPFER IST NUN VERFÜGBAR ALS VERDÄCHTIGER!
 SelectSuspect = WER IST DER MÖRDER?
-ConfirmSuspect = BIST DU DIR SICHER, DASS DIESER TROTTEL DER MÖRDER IST?
+ConfirmSuspect = BIST DU SICHER, DASS DIESER FIESLING DER MÖRDER IST?
 
 Suspect_Select0 = Schützen und dienen[br]um jeden Preis!
-Suspect_Select1 = Wir haben Augen[br]überall, und wir[br]haben nichts gesehen!
-Suspect_Select2 = Was schaust'n [br]mich so an, Grünschnabel?
-Suspect_Select3 = Ich musste es tun,[br]oder die Stimmen[br]würden nicht aufhören!
+Suspect_Select1 = Wir haben überall[br]Augen und wir haben[br]nichts gesehen!
+Suspect_Select2 = Was glotzt du mich[br]so an, Peck-Neck?
+Suspect_Select3 = Ich musste es tun,[br]sonst hätten die Stimmen[br]nicht aufgehört!
 Suspect_Select4 = ...
-Suspect_Select5 = Du kannst keine[br]tote Eule beschuldigen! Ich meine...[br]zzzz...
+Suspect_Select5 = Du kannst einer toten Eule[br]nichts vorwerfen! Ich meinte...[br]zzzz...
 
 [Decoration]
-PayCost = Reparaturkosten:
+PayCost = Reparieren:
 
 [DeadBirdBills]
-Bill_WalkOnSet = Studioaufnahmen stören
-Bill_DestroyProp = Zerstörung von Eigentum
-Bill_EnterStudio = unbefugtes Betreten
+Bill_WalkOnSet = Störung von Studioaufnahmen
+Bill_DestroyProp = Zerstörung von Eigentums
+Bill_EnterStudio = Unbefugtes Betreten
 Bill_Spotted_Owl = Eulen-Belästigung
 Bill_Spotted_Penguin = Pinguin-Belästigung
-Bill_Power_Outage = Manipulation mit Elektronik
-Bill_Started_Fire = Schwere Brandstiftung
-Bill_Cactus = Angriff auf Kaktus
-Bill_TeePee = Teepee T-KO
+Bill_Power_Outage = Manipulation elektronischer Geräte
+Bill_Started_Fire = Verschärfte Brandstiftung
+Bill_Cactus = Anschlag auf Kaktus
+Bill_TeePee = Tipi T-KO
 
 [MovieCredits]
-Author_Condutor = REGIE: SCHAFFNER 
+Author_Condutor = REGIE: SCHAFFNER
 Author_DJ = REGIE: DJ GROOVES
-Starring = MIT
-Highscore = DIE BEWERTUNGEN SIND DA ...
+Starring = BESETZUNG:
+Highscore = DIE KRITIKEN SIND ERSCHIENEN...
 
 [ConsoleProfileSwap]
 SwapProfile = Profil wechseln

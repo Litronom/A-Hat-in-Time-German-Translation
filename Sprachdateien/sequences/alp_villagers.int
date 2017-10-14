@@ -1,55 +1,55 @@
 [AlpsHUB]
-TimePieceDirection0 = Hast du dieses helle, flackernde Licht am Himmel bemerkt?
-TimePieceDirection1 = Sie tauchten auf als diese [icon:timepiece][timepiece]komischen Sanduhren[/timepiece] vom Himmel fielen. Ich frage mich was sie sind.
-TimePieceDirection2 = Auf jeden Fall wünschte ich, sie wären nicht so hell. Sie blenden!
+TimePieceDirection0 = Sind dir die hellen, blinkenden Lichter am Himmel aufgefallen?
+TimePieceDirection1 = Sie tauchten vor kurzem auf, nachdem ein paar [icon:timepiece][timepiece]seltsame Sanduhren[/timepiece] vom Himmel fielen. Was hat das wohl bedeuten?
+TimePieceDirection2 = Jedenfalls wünschte ich mir, sie wären nicht so hell. Sie blenden mich!
 
 [finale]
-finale0 = Es ist... vorbei? Die Luft ist wieder rein!
-finale1 = Und die Ziegen scheinen wieder zu sich zu kommen. Ich verstehe es nicht wirklich, aber denke, wir müssen dir danken!
-finale2 = Wir haben das in einen Haufen dieser verwelkten Blumen gefunden. Du hast die anderen ziemlich hartnäckig gesammelt, also denke ich, dass sie dir gehören.
-finale3 = Danke das du uns geholfen hast!
+finale0 = Ist es... vorbei? Die Luft ist wieder rein! 
+finale1 = Und die Ziegen scheinen wieder zur Besinnung gekommen zu sein. Ich verstehe es nicht wirklich, aber ich nehme an, wir haben das dir zu verdanken!
+finale2 = Wir haben das hier zwischen diesen Blumen gefunden, nachdem sie verwelkt sind. Du hast ziemlich eifrig nach den anderen gesucht, also gehört es wohl auch dir?
+finale3 = Vielen Dank für deine Hilfe!
 
 [Guides]
-guide_lavacake0 = Hier geht es[br]zum [name]Lava Kuchen[/name]!
-guide_lavacake1 = Diese Hitze ist großartig! [br]Sie ist [hint]rechts[/hint] [br]sogar noch heißer!
-guide_lavacake2 = Das ist der [br][name]Lava Kuchen[/name]!
-guide_lavacake3 = Wie endete dieser Ort [br]überhaupt so?
-guide_windmill0 = Zur [name]alten Windmühle[/name] [br]geht es hier lang! 
-guide_windmill1 = Dieser Ort ist riesig! [br]Das Klettern zur [hint]Spitze[/hint] ist bestimmt anstrengend.
-guide_twilight0 = Zur [name]mitternachts Glocke[/name][br]geht es hier lang!
-guide_twilight1 = Die [name]mitternachts Glocke[/name][br]ist gleich dort drüben!
-guide_twilight2 = Schau dir das an![br]Wenn ich doch nur rankommen würde.
-guide_birdhouse0 = Die Vögel am[br][name]Vogelhaus[/name] stehlen [br]leuchtende Dinge!
-guide_birdhouse1 = [name]Das Vogelhaus[/name] liegt [br]in dieser Richtung!
-guide_birdhouse2 = Du bist fast am [br][name]Vogelhaus[/name]!
-guide_horn0 = Blas in diese Hörner [br]um neue Wege[br]zu öffnen!
-guide_horn1 = Da ist ein[br][hint]Horn[/hint] auf[br]der Spitze!
-guide_binocs0 = Diese Ferngläser [br]lassen dich weit entfertne [br]Gipfel anschauen!
-guide_deadend0 = Hey! Dieser Weg führt [br]zu keinen [hint]Gipfel[/hint].
-guide_deadend1 = Ich glaube hier geht es zu einem [hint]Horn[/hint]. [br]Du kannst es sehen!
-guide_deadend2 = Ich glaube ich beobachte [br]einen [hint]Schatz[/hint]!
-guide_deadend3 = Ich glaube [br]nicht, dass jegliche [br][hint]Sanduhren[/hint] hier entlang [br]gefallen sind.
-guide_zipline0 = Stelle sicher, [br]dass du den Pfad [hint]ansteuerst[/hint], [br]den du gehen willst.
-guide_bridge0 = Vorsicht! Manche [hint]Brücken[/hint] sind alt.
-guide_cats0 = Pass auf, Kind. Ich ging voran und [br]wurde leicht gekratzt!
-guide_cats1 = Ich behalte deinen [br][icon:hat] hier!
-guide_eggs0 = Irgendwas stimmt [br]mit diesen komischen [br]Eiern nicht!
-guide_danger0 = Hi! Das ist eindeutig [br]ein sicherer Platz [br]für ein Kind.
+guide_lavacake0 = Dieser Weg führt zum[br][name]Lavakuchen[/name]!
+guide_lavacake1 = Eine große Hitze hier! [br]Es ist sogar noch heißer[br]auf der [hint]rechten Seite[/hint]!
+guide_lavacake2 = Das ist der[br][name]Lavakuchen[/name]!
+guide_lavacake3 = Wie konnte ein [br]solcher Ort [br]überhaupt entstehen?
+guide_windmill0 = Die [name]Alte Windmühle[/name][br]ist dort entlang!
+guide_windmill1 = Dieser Ort ist[br]riesig! Es ist sicher[br]anstrengend [hint]da hoch[/hint][br]zu klettern.
+guide_twilight0 = Hier lang zur [br][name]Schattenglocke[/name]!
+guide_twilight1 = Die [name]Schattenglocke[/name][br]ist gleich da vorn!
+guide_twilight2 = Schau dir das Ding an![br]Wenn ich doch nur[br]rankommen würde.
+guide_birdhouse0 = Die Vögel im [br][name]Vogelkäfig[/name] stehlen[br]glänzende Dinge!
+guide_birdhouse1 = Zum[name]Vogelkäfig[/name][br]geht's hierlang!
+guide_birdhouse2 = Du bist fast beim [br][name]Vogelkäfig[/name]!
+guide_horn0 = Bläst du in die Hörner, [br]eröffnen sich dir [br]neue Möglichkeiten! 
+guide_horn1 = Ein [hint]Horn[/hint] ist[br] auf der Spitze!
+guide_binocs0 = Diese Teleskope [br]bieten einen Blick auf [br]weit entfernte Gipfel!
+guide_deadend0 = Hey! Dieser Pfad führt [br]zu keinem [hint]Gipfel[/hint].
+guide_deadend1 = Dieser Pfad [br]führt zu einem [hint]Horn[/hint]. [br]Man kann es gerade[br]so sehen!
+guide_deadend2 = Ich glaube, ich habe[br]dort ein paar [br][hint]Schätze[/hint] entdeckt!
+guide_deadend3 = Ich glaube nicht,[br]dass es eine [hint]Sanduhr[/hint][br]in dieser Richtung gibt.
+guide_zipline0 = Pass auf, dass du [br][hint]in Richtung[/hint][br]des gewünschten Pfades schwingst!
+guide_bridge0 = Vorsicht! Einige dieser [hint]Brücken[/hint] sind alt.
+guide_cats0 = Pass auf dich auf. [br]Da vorne wurde ich leicht zerkratzt!
+guide_cats1 = Wenn ich du wäre,[br]würde ich auf meinen[br][icon:hat] aufpassen!
+guide_eggs0 = Irgendwas ist [br]komisch an manchen [br]dieser Eier!
+guide_danger0 = Hi! Das hier ist [br]eindeutig ein [br]sicherer Ort [br]für ein Kind.
 
 [PeakSize]
-size0 = Auf diesen Gipfeln gibt es viele wirklich große Gebäude.
-size1 = Ich frage mich wer sie gebaut hat.
-size2 = ... Vögel bauen keine Vogelhäuser, oder?
+size0 = Auf diesen Gipfeln gibt es eine Menge wirklich großer Häuser.
+size1 = Wer die wohl gebaut hat? 
+size2 = ... Vögel bauen doch keine Vogelhäuschen, oder?
 
 [Flowers]
-flowers0 = Hast du die lilanen Blumen die hier wachsen gesehen?
-flowers1 = Ich würde abstand halten. Irgendwas an ihnen kommt mir seltsam vor.
+flowers0 = Hast du die lila Blumen gesehen, die hier in der Gegend wachsen?
+flowers1 = Ich würde auf Distanz bleiben. Mir kommen die irgendwie komisch vor.
 
 [Horns]
-explanation0 = Warum wir die Hörner nicht selbst blasen?
-explanation1 = So weit oben ist die Luft wirklich dünn! Es ist schwer für uns tief einzuatmen.
-explanation2 = Aber dir scheint es nichts auszumachen. 
+explanation0 = Warum wir nicht selbst die Hörner blasen?
+explanation1 = Die Luft hier oben ist wirklich dünn! [br]Es ist schwer für uns, so tiefe Atemzüge zu nehmen.
+explanation2 = Dir scheint das aber nichts auszumachen. 
 
 [Goats]
-goats0 = Ich weiß nicht viel über die Ziegen hier oben, aber wir versuchen ihnen viel Raum zu lassen.
-goats1 = Wenn du ihnen in die Quere kommst, werden sie aufdringlich.
+goats0 = Ich weiß nicht viel über die Ziegen hier oben, aber wir machen einen großen Bogen um sie.
+goats1 = Wenn du ihnen zu nahe kommst, werden sie etwas aufdringlich.

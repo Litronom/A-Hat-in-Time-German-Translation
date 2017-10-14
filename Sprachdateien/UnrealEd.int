@@ -37,27 +37,27 @@ MainMenu_ResetCheckpoint = No Checkpoint
 MainMenu_ChangeCheckpointDesc = Change Current Checkpoint To This
 
 MainMenu_GameInfo_Unlockables_Badges = Badges
-MainMenu_GameInfo_Unlockables_Hats = Hats
+MainMenu_GameInfo_Unlockables_Hats = Hüte
 MainMenu_GameInfo_Unlockables_Skins = Skins
 MainMenu_GameInfo_Unlockables_Remixes = Remixes
-MainMenu_GameInfo_Unlockables_Weapons = Weapons
-MainMenu_GameInfo_Unlockables_Passives = Abilities
+MainMenu_GameInfo_Unlockables_Weapons = Waffen
+MainMenu_GameInfo_Unlockables_Passives = Fähigkeiten
 
 MainMenu_GameInfo_Unlockables = Unlockables
 MainMenu_GameInfo_UnlockItemDesc = Unlocks This Item For All Players
 MainMenu_GameInfo_UnlockAllItems = Unlock All Items
 
 MainMenu_GameInfo_LevelBits = Act / Level Bits
-MainMenu_GameInfo_LevelBits_DeadBirdWinner = Dead Bird Winner
-MainMenu_GameInfo_LevelBits_DeadBirdWinner_0 = Undecided
-MainMenu_GameInfo_LevelBits_DeadBirdWinner_1 = Conductor
+MainMenu_GameInfo_LevelBits_DeadBirdWinner = Dead Bird Gewinner
+MainMenu_GameInfo_LevelBits_DeadBirdWinner_0 = Unentschieden
+MainMenu_GameInfo_LevelBits_DeadBirdWinner_1 = Schaffner
 MainMenu_GameInfo_LevelBits_DeadBirdWinner_2 = DJ Grooves
 
 MainMenu_GameInfo_ResetLevelBits = Reset Bits
 MainMenu_GameInfo_ResetLevelBits_Desc = Resets the currently saved level and act bits. Level bits are per-act booleans that may be stored to communicate between maps.
 
-MainMenu_GameInfo_TimePieces = Time Pieces
-MainMenu_GameInfo_TimePieces_Reset = Reset Time Pieces
+MainMenu_GameInfo_TimePieces = Sanduhren
+MainMenu_GameInfo_TimePieces_Reset = Sanduhren zurücksetzen
 MainMenu_GameInfo_TimePieces_Reset_Desc = Undos the unlocked Time Pieces in this level.
 MainMenu_GameInfo_TimePieces_GiveAll = Give All Level Time Pieces
 MainMenu_GameInfo_TimePieces_GiveAll_Desc = Unlocks all Time Pieces in this level.

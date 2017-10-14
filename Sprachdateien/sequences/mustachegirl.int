@@ -1,164 +1,164 @@
 [chapter1muchase]
-tower0 = Hey you,[waitlong] down there! [waitlong][waitlong]Don't think I didn't see you stalking me!
-tower1 = Us kids should stick together, not stalk one another. I mean, [name]Mafia Town[/name] can be a really dangerous place! So whaddaya say, wanna join my little rebellion?
-tower2 = Oh, by the way, did you have anything to do with the [timepiece][icon:timepiece]junk[/timepiece] falling from the sky? Yeah? Yikes, looks like you've got a lot of cleaning up to do, huh?
-tower3 = Tell you what, come up here and I can show you where some of your [timepiece][icon:timepiece]junk[/timepiece] landed!
+tower0 = Hey [waitlong]du da unten![waitlong][waitlong] Denk nicht, ich hätte nicht gesehen, wie du mich verfolgst!
+tower1 = Wir Kinder sollten zusammenhalten, nicht einander verfolgen. Ich meine, [name]Mafia Town[/name] kann ein wirklich gefährlicher Ort sein! Also was sagst du, magst' meiner kleinen Rebellion beitreten?
+tower2 = Oh, übrigens, hattest du was mit dem [timepiece][icon:timepiece]Schrott[/timepiece] zu tun, der vom Himmel fiel? Ja? Mensch, sieht aus, als müsstest du viel aufräumen, was?
+tower3 = Hör zu, komm her und ich kann dir zeigen, wo dein [timepiece][icon:timepiece]Schrott[/timepiece] gelandet ist!
 
-tower_wrong_jump = Your standard jump isn't going to cut it. You'll need to double that jump!
+tower_wrong_jump = Dein Standardsprung wird da nicht ausreichen. Du musst den Sprung verdoppeln!
 
-mu_follow0 = Follow me, rebel squad!
+mu_follow0 = Mir nach, Rebellentrupp!
 
-umbrella_there0 = Hey! I think one of your [timepiece][icon:timepiece]junk pieces[/timepiece] fell and smashed right into the market's fountain. Messed it up real good.
-umbrella_there1 = When going over there, just avoid making eye contact with the Mafia and you'll be fine. Good luck, fellow rebel!
-umbrella_there2 = See ya!
+umbrella_there0 = Hey! Ich glaube, eins deiner [timepiece][icon:timepiece]Schrottstücke[/timepiece] fiel genau in den Marktbrunnen. Den hat's echt ordentlich verhunzt.
+umbrella_there1 = Wenn du da rüber gehst, vermeide Augenkontakt mit der Mafia und alles wird gut. Viel Glück, Mitrebell!
+umbrella_there2 = Bis bald!
 
 [chapter1combat]
-grabbed0 = Dude, get off[br]of me!!
-grabbed1 = I'm serious! Put me down, you big idiot!
-grabbed2 = What kind of man[br]grabs an innocent[br]little girl?!
-grabbed3 = Your cooking is bad[br]and you're a[br]bad person![br]Now let me go!!
-grabbed4 = I'm not going[br]anywhere with you![br]Let go!!
-grabbed5 = If you don't drop[br]me right now,[br]I'll bite!
-grabbed6 = Quit it!
+grabbed0 = Alter, geh weg[br]von mir!!
+grabbed1 = Ich mein's ernst! Lass mich runter, du Idiot!
+grabbed2 = Welcher Mann[br]schnappt sich ein[br]unschuldiges Mädchen?!
+grabbed3 = Du kochst schlecht[br]und du bist schlecht![br]Jetzt lasst mich los!!
+grabbed4 = Ich geh nirgendwo[br]mit dir hin![br]Lass los!!
+grabbed5 = Wenn du mich nicht[br]sofort fallen lässt,[br]beiße ich zu!
+grabbed6 = Schluss damit!
 
 thrown0 = Argh!
-thrown1 = No, don't throw meeeeeeeeeeeeeee.....!
+thrown1 = Nein, nicht werfeeeeeeeeeeeeeee.....!
 
-battleend0 = Pfft. Can you believe them? What a bunch of losers.
-battleend1 = Hey. You're alright, new kid. Do you have a name?
-battleend2 = No? You shy? That's cool. You're a 'less talk, more fighting' kind of girl, I take it.
-battleend3 = That [timepiece][icon:timepiece]thing[/timepiece] you grabbed there... are you collecting them? Because I know where there's more of them.
-battleend4 = They've been raining from the sky ever since you arrived. I've seen the goons bring them to their headquarters waaay up there.
-battleend5 = We should go up there and get your junk! It'll be fun! I'll take any opportunity that involves messing up the Mafia.
-battleend6 = You with me, buddy?
+battleend0 = Pfft. Kannst du's fassen? Was für ein Haufen Versager.
+battleend1 = Hey. Du bist in Ordnung, Neue. Hast du einen Namen?
+battleend2 = Nein? Zu schüchtern? Das ist cool. Du bist wohl eher von der Sorte "still aber tödlich", was? 
+battleend3 = Das [timepiece][icon:timepiece]Ding[/timepiece], das du da geschnappt hast... sammelst du sowas? Weil ich weiß, wo es noch mehr davon gibt.
+battleend4 = Seitdem du hier bist, regnen die vom Himmel. Ich habe gesehen, wie die Tölpel sie zu ihrer Basis gaaaanz da oben gebracht haben.
+battleend5 = Wir sollten da raufgehen und deinen Kram holen! Das wird lustig! Ich nutze jede Gelegenheit, um die Mafia zu ruinieren.
+battleend6 = Bist du dabei, Partner?
 
 hifive0 = Yeah!!
 
 [intruder]
-PreAwakening0 = Are you ready to take down some Mafia!? Let's do it! I'm psyched!
-PreAwakening1 = Let's go over the plan! All assaults need a good plan, or it'll be a flop!
-PreAwakening2 = First, we strangle them! Choke 'em and watch 'em beg for mercy! That'll show them!
-PreAwakening3 = No, wait, strangling is too kind...
-PreAwakening4 = We smash them together into mush, and put their remains in a jar!
-PreAwakening5 = Then we sell the jar for pocket money! That'll be the ultimate salt in the wound!
-PreAwakening6 = ... [scream]*ahem*[/scream] But first, we have to make it through their [name]Mafia HQ[/name].
-PreAwakening7 = Once we find and dethrone the [name]Mafia Boss[/name], the rest will follow. Then our mush and jar party will be no problem!
-PreAwakening8 = We've gotta get you geared up! Your hat is basic, and we don't do basic in this gang!
-PreAwakening9 = [hint][icon:yarn]Yarn[/hint] can be found around Mafia Town and used to stitch new hats if you're crafty. I've collected one for you!
-PreAwakening10 = You need more yarn for some hats than others. I guess being creative isn't free, huh? So keep an eye out for yarn!
-PreAwakening11 = Now you're a killing machine! Let's go get them!!
+PreAwakening0 = Bereit, die Mafia zu Fall zu bringen? Los geht's! Ich bin total aufgeregt!
+PreAwakening1 = Gehen wir den Plan durch! Alle Überfälle brauchen einen guten Plan, oder es wird ein Flop!
+PreAwakening2 = Zuerst erwürgen wir sie! Sie ersticken und zusehen, wie sie um Gnade betteln! Das wird es ihnen eine Lehre sein!
+PreAwakening3 = Nein, warte, Würgen wäre zu nett...
+PreAwakening4 = Wir hauen sie zu Apfelmus und stecken die Reste in ein Glas!
+PreAwakening5 = Dann verkaufen wir das Glas für das Taschengeld! Das wird das ultimative Salz in ihrer Wunde sein!
+PreAwakening6 = ... [scream]*ähem*[/scream] Aber zuerst müssen wir es durch die [name]Mafiabasis[/name] schaffen.
+PreAwakening7 = Sobald wir den [name]Mafiaboss[/name] finden und entthronen, wird der Rest folgen. Dann ist unsere Apfelmusparty kein Problem!
+PreAwakening8 = Wir müssen dich ausrüsten! Dein Hut ist zu einfach, und in dieser Gang gibt's keine einfachen Dinge!
+PreAwakening9 = [hint][icon:yarn]Garn[/hint] kann rund um Mafia Town gefunden werden und verwendet werden, um neue Hüte zu nähen. Ich habe eins für dich!
+PreAwakening10 = Für manche Hüte braucht man mehr Garn. Ich schätze, Kreativität gibt's nicht umsonst, oder? Also halte Ausschau nach Garn!
+PreAwakening11 = Jetzt bist du eine Kampfmaschine! Schnappen wir sie uns!!
 
 [mafiahq]
-outside0 = You took your time! Help me out here!
-outside1 = Get these brutes off my case and we can go inside!
-outside2 = Good job, kid!
-outside3 = Let's go,[br]it's showtime[br]baby!
-freezer0 = Go ahead, kid! Open this thing up and I'll keep guard here.
-captured0 = Let go of me,[br]you psycho!!
-mafia_ball_hint0 = Hat kid![br]Hit him already!
-mafia_ball_hint1 = C'mon! Crawl up[br]and hit him!
+outside0 = Du hast dir Zeit gelassen! Hilf mir mal!
+outside1 = Schaff diese Rüpel dort mal weg damit wir reingehen können!
+outside2 = Gute Arbeit, Kleine!
+outside3 = Los geht's,[br]es ist[br]Showtime Baby!
+freezer0 = Nur zu, Kleine! Mach das Ding auf. Ich halte hier Wache.
+captured0 = Lass mich los,[br]du Irrer!!
+mafia_ball_hint0 = Los Kleine![br]Triff ihn endlich!
+mafia_ball_hint1 = Komm schon![br]Kletter hoch und[br]verpass ihm eine!
 
-timepiecebreak0 = So what do these things do, anyway? Are they some sort of rare collector's item for nerds?
-timepiecebreak1 = Are they some sort of rare c... wait, huh?
-timepiecebreak2 = [big][scream]Whoa, WHAT?![/scream][/big]
-timepiecebreak3 = Wha... did, uhm... did you know about this?
-proposal0 = [scream]This is crazy![/scream] Do you even realize what could be done with these?
-proposal1 = We could make it so that you never got punched in the face by the Mafia that one time!
-proposal2 = We could beat up the Mafia, travel back in time, and then beat them up again!
-proposal3 = No, wait, we could make it so the Mafia never arrived on the island!
-proposal4 = Wait, wait, wait, even better! We could be crime-fighting time travellers!
-tantrum0 = Wait, what?! This doesn't make any sense!
-tantrum1 = You have all this power, and you're not gonna use it to fight evil?
-tantrum2 = If you're not gonna use them to fight evil... then I will!
-tantrum3 = I'm not gonna let this island remain as Mafia Town! I'll collect all the [timepiece][icon:timepiece]Time Pieces[/timepiece] for myself! You have my word on it!
-pickpocket_no_va = [name]Mustache Girl[/name] has pickpocketed half your [icon:money][hint]Pons[/hint].
+timepiecebreak0 = Wozu sind diese Dinger eigentlich gut? Sind die so eine Art seltenes Sammlerobjekt für Nerds?
+timepiecebreak1 = Sind die so eine Art seltenes Sa... warte, was?
+timepiecebreak2 = [big][scream]Woah, WAS?![/scream][/big]
+timepiecebreak3 = Was... hast, ähm... hast du davon gewusst?
+proposal0 = [scream]Das ist Irre![/scream] Ist dir überhaupt klar, was man damit machen kann?
+proposal1 = Wir könnten es verhindern, dass die Mafia dir jemals ins Gesicht schlägt! 
+proposal2 = Wir könnten die Mafia verhauen, in die Vergangenheit reisen und sie dann noch mal verhauen!
+proposal3 = Nein, warte, wir könnten es verhindern, dass die Mafia überhaupt auf der Insel ankommt!
+proposal4 = Warte, warte, warte, warte, noch besser! Wir könnten Zeitreisende im Kampf gegen Verbrechen sein!
+tantrum0 = Warte, was?! Das ergibt überhaupt keinen Sinn!
+tantrum1 = Du hast all diese Macht und willst sie nicht gegen das Böse einsetzen?
+tantrum2 = Wenn du sie nicht benutzen willst, um gegen das Böse zu kämpfen... dann werde ich es tun!
+tantrum3 = Ich werde diese Insel nicht als Mafia Town bestehen lassen! Ich werde alle [timepiece][icon:timepiece]Sanduhren[/timepiece] selbst sammeln! Darauf gebe ich dir mein Wort!
+pickpocket_no_va = [name]Mustache Girl[/name] hat die Hälfte deiner [icon:money][hint]Pons[/hint] gestohlen.
 
 [MuMission_UI]
-intro0 = Now it's my turn!
-intro1 = Here we go!
-intro2 = Enough about her, let's talk about me!
-intro3 = My time to shine!
+intro0 = Jetzt bin ich dran!
+intro1 = Los geht's!
+intro2 = Genug von ihr, reden wir über mich!
+intro3 = Meine Zeit ist gekommen!
 
 [MuMission_Finale]
-intro0 = Alright, I'm in! I made it! I infiltrated that kid's spaceship without the alarms going off.
-intro1 = I bet she's collected a ton more [timepiece][icon:timepiece]Time Pieces[/timepiece] than I have... now where does she keep em?
-vault0 = Jackpot! This must be where she stores 'em all!
-vault1 = Ughn....!
-vault2 = Time to mess with time a little!
+intro0 = Alles klar, ich bin drin! Ich hab's geschafft! Ich habe das Raumschiff infiltriert, ohne dass der Alarm losging.
+intro1 = Ich wette, sie hat eine Menge mehr [timepiece][icon:timepiece]Sanduhren[/timepiece] als ich gesammelt... aber wo hat sie sie versteckt?
+vault0 = Jackpot! Hier lagert sie sie sicher alle!
+vault1 = Uff....!
+vault2 = Zeit, mit der Zeit zu spielen!
 timepiece_break0 = Blam!
-timepiece_break1 = Bam!
+timepiece_break1 = Bäm!
 timepiece_break2 = Boom!
 timepiece_break3 = Blammo!
-timepiece_break4 = Looks like things are starting to go a lil' bit crazy!
-timepiece_break5 = More! More!
-timepiece_break6 = Here we go!! Turn this disgusting planet into a place suitable for ME!!!!
-doorblocked0 = Dang, can't go in here!
-doorblocked1 = Oh, this one is locked. Face-recognition, maybe?
+timepiece_break4 = Schein so, als würden die Dinge ein bisschen verrückt spielen!
+timepiece_break5 = Mehr! Mehr!
+timepiece_break6 = Auf geht's!! Verwandlen wir diesen ekelhaften Planeten in einen Ort, der MIR besser gefällt!!!!
+doorblocked0 = Mist, ich komm hier nicht rein!
+doorblocked1 = Oh, die ist verschlossen. Vielleicht Gesichtserkennung?
 
 [MuMission_Subcon1]
-intro0 = Ugh, travelling is a lot harder when you don't have a spaceship to fly around in.
-intro1 = I bet the hat kid hasn't been here yet, though! I'll snatch all the [icon:timepiece][timepiece]Time Pieces[/timepiece] before she gets here!
-intro2 = Now... where to find some [icon:timepiece][timepiece]Time Pieces[/timepiece]?
+intro0 = Uff, das Reisen ist viel schwieriger, wenn man kein fliegendes Raumschiff hat.
+intro1 = Ich wette, das Mädchen mit dem Hut war noch nicht hier! Ich schnappe mir alle [icon:timepiece][timepiece]Sanduhren[/timepiece], bevor sie kommt!
+intro2 = Also... wo finde ich jetzt ein paar [icon:timepiece][timepiece]Sanduhren[/timepiece]?
 
-noose0_no = Why hello there. You look... new around here.
-noose1_mu = Wow, you're a creep, did anyone ever tell you that?
-noose2_mu = Go "hang" out somewhere else. Get it?
-noose3_mu = ... why am I talking to a noose.
+noose0_no = Na, hallöchen. Du siehst aus... als wärst du neu hier.
+noose1_mu = Wow, du bist ein Widerling, hat dir das schon mal jemand gesagt?
+noose2_mu = "Häng" woanders rum. Kapiert?
+noose3_mu = ... warum rede ich mit einer Schlinge?
 
-noose_neck0_no = I would be honored to be the one who sequeezes the life out of you.
-noose_neck1_mu = You nooses need to get out more. Ever heard of Mafia Town? I hear that's a great vacation spot.
-noose_neck2_mu = Send me a postcard if you strangle anyone on your trip!
+noose_neck0_no = Es wäre mir eine Ehre, das Leben aus dir herauszuziehen.
+noose_neck1_mu = Ihr Schlingen müsst mehr rauskommen. Schon mal von Mafia Town gehört? Ich habe gehört, das sei ein toller Urlaubsort.
+noose_neck2_mu = Schick mir eine Postkarte, wenn du jemanden auf deiner Reise erwürgst!
 
 
-snatcher0_sn = FOOOOOOOOOOOOOOOOOOL!!
-snatcher1_mu = Are you for real? This is so cliche.
-snatcher2_sn = YOU STEPPED IN- I'm sorry, what now?
-snatcher3_mu = I've seen this done a million times on TV. This isn't even close to original.
-snatcher4_sn = Wow, okay. Not only do you intrude on my domain, but you also insult it.
-snatcher5_sn = Do you even know what I do with small children? I eat them for lunch.
-snatcher6_mu = Alright, whatever. Do your thing! I'm just here to snatch some [icon:timepiece][timepiece]Time Pieces[/timepiece].
-snatcher7_sn = Okay, EXCUSE ME. If anyone is snatching anything, it's me!
-snatcher8_sn = My name is literally the Snatcher, and you, young lady, are not taking anything that belongs to me.
-snatcher9_mu = What are you gonna do about it?
-snatcher10_mu = Lemme guess, you're gonna make a deal with me that favors you way more than it favors me?
+snatcher0_sn = NARRRRRRRRRRRRRRRRRR!!
+snatcher1_mu = Meinst du das ernst? Das ist so klischeehaft.
+snatcher2_sn = DU BIST IN MEINE- Sorry, was ist los?
+snatcher3_mu = Ich habe das schon tausendmal im Fernsehen gesehen. Das ist nicht mal annähernd originell.
+snatcher4_sn = Wow, okay. Du dringst nicht nur in mein Gebiet ein, sondern beleidigst mich auch noch.
+snatcher5_sn = Weißt du überhaupt, was ich mit kleinen Kindern mache? Ich esse sie zu Mittag.
+snatcher6_mu = Na gut, wie auch immer. Mach dein Ding! Ich bin nur hier, um mir ein paar [icon:timepiece][timepiece]Sanduhren[/timepiece] zu schnappen.
+snatcher7_sn = Okay, ENTSCHULDIGUNG. Wenn hier irgendjemand irgendwas schnappt, dann bin ich es!
+snatcher8_sn = Ich bin der Snatcher und mein Name ist Programm. Und du, junge Dame, bekommst nichts, was mir gehört.
+snatcher9_mu = Was willst du dagegen machen?
+snatcher10_mu = Lass mich raten, du bietest mir einen Deal an, der dir mehr Vorteile bringt als mir?
 snatcher11_sn = ...
-snatcher12_sn = NO. I have, uhm, something much cooler planned for you!
-snatcher13_mu = Spit it out, what is it?
-snatcher14_sn = It's, uhh...
+snatcher12_sn = NEIN. Ich habe, ähm, etwas viel cooleres für dich geplant!
+snatcher13_mu = Raus damit, was ist es?
+snatcher14_sn = Es ist, ähh...
 snatcher15_sn = ...
-snatcher16_sn = Okay fine, I was gonna make you sign a contract.
-snatcher17_mu = Amazing. Can I go?
+snatcher16_sn = Okay, gut, ich wollte dich dazu bringen, einen Vertrag zu unterschreiben.
+snatcher17_mu = Wahnsinn. Kann ich gehen?
 snatcher18_sn = ...
-snatcher19_sn = Get out of my forest.
+snatcher19_sn = Raus aus meinem Wald.
 // Snatcher picks up Mu Girl by her cape
-snatcher20_mu = Wha?! Hey!
+snatcher20_mu = Was?! Hey!
 // He throws her far away
-snatcher21_sn = Children these days.
+snatcher21_sn = Die Jugend heutzutage.
 
 [finale]
-plead0 = Oh wow, what a touching story. Just kidding! Bad guy! NEXT!
-plead1 = I said, NEXT!
-plead2 = Oh, it's you!
-plead3 = You've been kinda a selfish little pest. But eh! You haven't actually stood in my way. You get to go on, you're a good guy, I guess.
-plead4 = Go on. You get to live.
-plead5 = NEXT!
+plead0 = Wow, was für eine rührende Geschichte. War nur ein Scherz! Böser Junge! NÄCHSTER!
+plead1 = Ich sagte, NÄCHSTER!
+plead2 = Oh, du bist es!
+plead3 = Du warst irgendwie ein egoistischer kleiner Schädling. Aber eh! Du warst mir nicht wirklich im Weg. Du darfst gehen, du bist von der guten Sorte.
+plead4 = Geh schon. Du darfst leben.
+plead5 = NÄCHSTER!
 
-slap0 = [scream]EXCUSE ME?[/scream]
-slap1 = Don't you dare get anywhere near me. I don't think you quite understand who's in charge, little missy.
-slap0_alt = [scream]PATHETIC![/scream]
-slap2 = You know, I was willing to forgive you. I once thought we were gonna be best buds.
-slap3 = But NOPE, you turned out to be rotten and selfish. Save the planet from bad guys? Pfft, who needs that, am I right?
-slap4 = Look at all I've done without you. I've restored justice. I AM the justice. No more bad guys, ever.
-slap5 = I don't need you. This planet doesn't need you. Nobody will miss you, and nobody will care.
-slap6 = YOU are the bad guy, and I'll show you how this justice system deals with bad guys.
+slap0 = [scream]ENTSCHULDIGE?[/scream]
+slap1 = Wage es ja nicht, in meine Nähe zu kommen. Ich glaube, du verstehst nicht ganz, wer hier das Sagen hat, kleines Fräulein.
+slap0_alt = [scream]ERBÄRMLICH![/scream]
+slap2 = Weißt du, ich war bereit, dir zu vergeben. Ich dachte einst, wir wären beste Freunde.
+slap3 = Aber NEE, wie sich herausstellte, warst du mies und egoistisch. Den Planeten vor Bösewichten retten? Pfft, wer braucht das, hab ich Recht?
+slap4 = Sieh nur, was ich ohne dich geschafft habe. Ich habe die Gerechtigkeit wiederhergestellt. Ich bin die Gerechtigkeit. Keine Bösewichte mehr, niemals.
+slap5 = Ich brauche dich nicht. Dieser Planet braucht dich nicht. Niemand wird dich vermissen, und niemanden wird es kümmern.
+slap6 = DU bist der Bösewicht und ich zeige dir, wie dieses Justizsystem mit Bösewichten umgeht.
 
-leaving0 = Really? You're leaving? Not even going to put up a fight? Pathetic.
+leaving0 = Wirklich? Du ziehst ab? Willst dich nicht mal wehren? Erbärmlich.
 
-group_counter0 = Wh, wha? But I'm fixing everything! No more bad guys! Why can't you see that I'm doing this for all of us!
-group_counter1 = How can you stand behind these people? They're crooks! Criminals! And you're... you're helping them?
-group_counter2 = This ends now!
+group_counter0 = Wa, was? Aber ich bringe alles in Ordnung! Keine Verbrecher mehr! Warum kapierst du nicht, dass ich das für uns alle mache?
+group_counter1 = Wie kannst du hinter diesen Leuten stehen? Das sind Gauner! Kriminelle! Und du hilfst ihnen?
+group_counter2 = Das endet hier und jetzt!
 
-final_phase0 = [scream][big]Enough!![/big][/scream]
+final_phase0 = [scream][big]Genug!![/big][/scream]
 
-suicide0 = W-what is this!? If everyone disappears but me, then I'd be all alone![br]Bad guys, stop it!
-suicide1 = My... my powers are disappearing!?
+suicide0 = W-was ist das!? Wenn alle außer mir verschwinden, bin ich ganz allein! Bösewichte, hört auf damit!
+suicide1 = Meine... meine Kräfte verschwinden!??

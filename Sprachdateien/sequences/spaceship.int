@@ -1,92 +1,92 @@
 [ActSelects]
-ChapterUnlocked = Energie [name][location][/name]wurde wieder hergestellt![br]Das Kapitel [name][chaptername][/name] ist jetzt verfügbar!
+ChapterUnlocked = Die Stromversorgung im [name][location][/name] wurde wiederhergestellt![br]Das Kapitel [name][chaptername][/name] ist jetzt verfügbar!
 
 [locations]
-Location_Bedroom = im Schlafzimmer
-Location_MainHall = in der Haupthalle
-Location_MachineRoom = im Maschinenraum
-Location_Basement = im Keller
-Location_Attic = auf dem Dachboden
+Location_Bedroom = Schlafzimmer
+Location_MainHall = Zentralraum
+Location_MachineRoom = Maschinenraum
+Location_Basement = Keller
+Location_Attic = Speicher
 
 [Decorations]
-DecorationPerfect = Combining the [decorations] made a [dreamworld] appear in [name][chaptername][/name]! Check the chapter's telescope to see where it's hiding!
+DecorationPerfect = Das Kombinieren der [decorations] hat eine [dreamworld] in [name][chaptername][/name] erscheinen lassen! Sieh durch das Teleskop des Kapitels um zu sehen wo es sich befindet!
 
 [Ending]
-ThrowMu0 = Ein[icon:timepiece][timepiece]Zeitstück[/timepiece] fallen lassen, um [icon:mugirl][name]Mädchen mit roter Kapuze[/name] etwas [icon:timepiece][timepiece]Zeitstück[/timepiece] Energie zu geben, damit sie die [name]Mafia[/name] besiegen kann?[br](Du wirst dann womöglich nicht mehr nach Hause kommen können.)
+ThrowMu0 = Wirfst du eine [icon:timepiece][timepiece]Sanduhr[/timepiece] runter und leihst [icon:mugirl][name]Rotkäppchen[/name] etwas Kraft der [icon:timepiece][timepiece]Sanduhr[/timepiece] um die [name]Mafia[/name] zu besiegen?[br](Vielleicht schaffst du nicht den ganzen Weg nach Hause.)
 ThrowMu0_Yes = Ja
 ThrowMu0_No = Nein
 
 [fluff]
-bookcase0 = It's a bookcase. Also known as a 'cool word zone' or a 'thing you can't even slightly fill yourself, Steven, you'll never find a publisher, and all that time you spend in your study is time you could spend with your kids', depending on where you're from.
-harmoniser0 = A 7-Stage Tri-Calculating Quantum Harmoniser. It was pretty expensive, but who doesn't deserve to treat themselves every now and then?
-brightness0 = This lever does literally nothing but alter how bright the nearby panel is when the power is on.
-brightness1 = It's stuck on 'really bright, actually'.
-radio0 = This is your bleeding-edge, top of the line audio device. 
-radio1 = Without it, you wouldn't be able to tune in to all your favourite radio broadcasts, like 'Acquaintances At The Table', 'Goodbye From Sunshine Town', or 'Two Brothers And Then Also A Third Additional Brother, Myself'.
-microwave0 = It's a microwave! You use it to punish food that has been bad.
-wardrobe0 = A closet! You only really wear one outfit, so there's lots of room for skeletons.
-button0 = The emergency button, perfectly designed for moments when you need a button to push but can't find one anywhere else.
+bookcase0 = Ein Bücherregal. Auch bekannt als "Coole-Wörter-Zone" oder "Sache, die du niemals füllen wirst wenn du keinen Verlag findest Steven, und die ganze Zeit, die du in deinem Arbeitszimmer sitzt, könntest du mit deinen Kindern verbringen", je nach deiner Herkunft.
+harmoniser0 = Ein 7-stufiger dreifachrechnender Quantenharmonisierer. Es war ziemlich teuer, aber wer verdient es nicht ab und zu sich selbst etwas zu gönnen?
+brightness0 = Dieser Hebel bewirkt buchstäblich nichts anderes, als die Helligkeit des Panels daneben zu verändern, wenn der Strom eingeschaltet ist.
+brightness1 = Er klemmt auf "Sehr hell, tatsächlich".
+radio0 = Das ist deine moderne, allerneueste und erstklassige Soundanlage. 
+radio1 = Ohne sie wärst du nicht in der Lage, alle deine Lieblingsradiosendungen wie "Bekannte am Tisch","Goodbye von Sunshine Town" oder "Zwei Brüder und außerdem ein weiterer dritter Bruder, Ich selbst" zu hören.
+microwave0 = Das ist eine Mikrowelle! Damit bestraft man böses Essen.
+wardrobe0 = Ein Schrank! Du trägst nur ein einziges Outfit, also gibt es da drin viel Platz für Skelette.
+button0 = Der Notfallknopf. Perfekt für Momente, in denen du einen Knopf zum Drücken benötigst, aber nirgendwo einen finden kannst.
 
 [Tokens]
-tokenmachine0 = It's a small machine that takes [icon:token][name]Tokens[/name] and gives a gift in return! Spend [icon:token][name]3 Tokens[/name] for a gift?
-tokenmachine1 = Not enough [icon:token][name]Tokens[/name]!
-tokenmachine0_yes = Heck yea
-tokenmachine0_no = I hate gifts
+tokenmachine0 = Eine kleine Maschine, die [icon:token][name]Münzen[/name] annimmt und ein Geschenk ausgibt! Willst du[icon:token][name]3 Münzen[/name] für ein Geschenk ausgeben?
+tokenmachine1 = Nicht genug [icon:token][name]Münzen[/name]!
+tokenmachine0_yes = Immer her damit
+tokenmachine0_no = Ich hasse Geschenke
 
 [computer]
-computerstart0 = Ah, yes. The VGS 1 - the fastest, most complex supercomputer ever to be built.
-computerstart1 = Boot it up?
-computer_on_yes = Yes!
-computer_on_no = Heck no!
-computerstart2a = You power it on. A world of computing delight awaits you.
-computerstart2b = You decide to leave the computer alone. You're just not ready to go that fast today.
-computer0 = GREETINGS USER {UNDEFINED.USER}. [br]WELCOME TO YOUR HOME COMPUTING EXPERIENCE.
-computer1 = OPEN APPLICATION?
-computer2 = SHUTTING DOWN.
+computerstart0 = Ah, genau. Der VGS 1 - der schnellste und komplexeste Supercomputer, der jemals gebaut wurde.
+computerstart1 = Hochfahren?
+computer_on_yes = Ja!
+computer_on_no = Ach nee!
+computerstart2a = Du schaltest ihn ein. Eine Welt voller Computergenuss erwartet dich.
+computerstart2b = Du entscheidest, den Computer in Ruhe zu lassen. Du bist einfach nicht bereit, heute so schnell zu sein.
+computer0 = WILLKOMMEN {UNDEFINIERTER.BENUTZER}. [br]WILLKOMMEN ZU DEINER PERSÖNLICHEN HEIMCOMPUTERERFAHRUNG.
+computer1 = ANWENDUNG ÖFFNEN?
+computer2 = FAHRE HERUNTER.
 
-computer_options_apps = 'FUN'
+computer_options_apps = 'SPASS'
 computer_options_internet = 'INTERNET'
-computer_app_game = 'GAMES'
-computer_app_earth = 'EARTH'
-computer_app_selfcare = 'REASSURANCE'
-computer_app_search = 'SEARCH'
-computer_app_browser = 'SURF THE NET'
-computer_app_shutdown = 'SHUT DOWN'
+computer_app_game = 'SPIELE'
+computer_app_earth = 'ERDE'
+computer_app_selfcare = 'BEKRÄFTIGUNG'
+computer_app_search = 'SUCHE'
+computer_app_browser = 'IM NETZ SURFEN'
+computer_app_shutdown = 'HERUNTERFAHREN'
 
-computersearch0 = YOU HAVE SELECTED THE SEARCH APPLICATION.
-computersearch1 = ENTER SEARCH TERM
-computersearch2 = SEARCHING... 0 RESULTS FOUND FOR [SEARCHTERM].[br]YOUR SEARCH HISTORY HAS BEEN SUBMITTED FOR FEDERAL REVIEW.
-computersearch3 = CLOSING SEARCH APPLICATION.
+computersearch0 = DU HAST DIE SUCHANWENDUNG GESTARTET.
+computersearch1 = SUCHBEGRIFF EINGEBEN
+computersearch2 = SUCHE LÄUFT... 0 ERGEBNISSE FÜR [SEARCHTERM].[br]DEIN SUCHVERLAUF WURDE ZUR PRÜFUNG AN DIE BEHÖRDEN ÜBERRMITTELT.
+computersearch3 = SCHLIESSE SUCHANWENDUNG.
 
-computergame0 = YOU HAVE SELECTED THE TEXT-BASED ENTERTAINMENT APPLICATION.
-computergame01 = WOULD YOU LIKE TO PLAY A GAME?
-computer_game_yes = YES
-computer_game_no = HECK NO
-computergame1a = YOU HAVE SELECTED YES. I WILL CHOOSE A GAME FROM MY IMMEASURABLE LIBRARY OF PURELY NON-VISUAL FUN.
-computergame1b = YOU HAVE SELECTED NO. RECORDING NEW HIGH SCORE FOR USER {UNDEFINED.USER} AT GAME: INTERPLANETARY THERMONUCLEAR WAR.[br]CLOSING TEXT-BASED ENTERTAINMENT APPLICATION.
-computergame2 = I HAVE SELECTED: CORGI QUEST 7 - THE LEASHES THAT BIND.
-corgiquest_a5a = YOU ARE A CORGI. YOUR NAME IS ALAN. YOU MUST SEVER THE MAGICAL LEASH HOLDING YOU TO THIS PLANE OF NASTINESS. EXITS ARE NORTH, EAST, AND SOUTH.
-corgiquest_a5b = YOU ARE WHERE YOUR QUEST BEGAN. EXITS ARE NORTH, EAST, AND SOUTH.
-game_n = GO NORTH
-game_s = GO SOUTH
-game_e = GO EAST
-game_w = GO WEST
-game_d = GO DENNIS
-game_u = GO UP
-game_do = GO DOWN
-game_bark = BARK
-game_jump = JUMP TO CONCLUSIONS
-game_look = LOOK
-game_ttiger = TALK TIGER
-game_sword = USE SWORD
-game_fight = FIGHT
-game_jumpcanyon = JUMP
-game_tbarry = TALK BARRY
-game_tseven = TALK SEVEN
-game_enter = ENTER TOWER
-game_retry_y = YES
-game_retry_n = NO
-corgiquest_a2 = YOU GO NORTH. THERE IS A TIGER. EXITS ARE SOUTH, AND ADVISABLE.
+computergame0 = DU HAST DIE TEXTBASIERTE UNTERHALTUNGSSOFTWARE GESTARTET.
+computergame01 = MÖCHTEST DU EIN SPIEL SPIELEN?
+computer_game_yes = JA
+computer_game_no = LIEBER NICHT
+computergame1a = DU HAST JA GEWÄHLT. ICH WERDE EIN SPIEL AUS MEINER UNENDLICHEN LISTE VON REIN NON-VISUELLEN SPASS AUSWÄHLEN.
+computergame1b = DU HAST NEIN GEWÄHLT. NEUER HIGHSCORE FÜR {UNDEFINIERTER.BENUTZER} IM SPIEL: INTERPLANETARER THERMONUKLEARER KONFLIKT.[br]SCHLIESSE TEXTBASIERTE UNTERHALTUNGSSOFTWARE.
+computergame2 = DU HAST GEWÄHLT: CORGI'S QUEST 7 - DIE BINDENDE LEINE.
+corgiquest_a5a = DU BIST EIN CORGI HUND. DEIN NAME IST ALAN. DU MUSST DIE MAGISCHE LEINE TRENNEN, WELCHE DICH AUF DIESEM PLANETEN VOLLER BOSHEIT ANBINDET. DIE WEGE SIND NORD, OST, UND SÜD.
+corgiquest_a5b = DU BIST WIEDER DA, WO DEIN ABENTEUER BEGANN. YOU ARE WHERE YOUR QUEST BEGAN. DIE WEGE SIND NORD, OST, UND SÜD.
+game_n = GEHE NORD
+game_s = GEHE SÜD
+game_e = GEHE OST
+game_w = GEHE WEST
+game_d = GEHE DENNIS
+game_u = GEHE HOCH
+game_do = GEHE RUNTER
+game_bark = BELLEN
+game_jump = VOEREILIGE SPRÜNGE MACHEN
+game_look = UMSEHEN
+game_ttiger = REDE TIGER
+game_sword = BENUTZE SCHWERT
+game_fight = KÄMPFE
+game_jumpcanyon = SPRING
+game_tbarry = REDE BARRY
+game_tseven = REDE SEVEN
+game_enter = BETRETE TURM
+game_retry_y = JA
+game_retry_n = NEIN
+corgiquest_a2 = DU GEHST NACH NORDEN. HIER IST EIN TIGER. WEGE SIND SÜD, UND EMPFEHLENSWERT.
 corgiquest_a2d = YOUR ATTEMPTS DO NOT SWAY THE TIGER. THE CONFLICT HE HAS SEEN AT THE PAWS OF YOUR KIND HAS GIVEN HIM STRENGTH SUCH THAT THE WEIGHT OF YOUR WORDS IS NEGLIGIBLE. HE MAULS YOU VERY BADLY. TRY AGAIN?
 corgiquest_a2b = YOU BARK. IT IS VERY LOUD AND GOOD. THE TIGER IS UNDULY STARTLED, AND MAULS YOU REALLY QUITE BADLY. TRY AGAIN?
 corgiquest_a2f = YOU BATTLE THE TIGER WITH YOUR CLAWS. IT IS NO MATCH FOR YOUR SKILL. TIGERS ARE AND WILL CONTINUE TO BE VERY ENDANGERED. YOU WILL BE TRIED FOR YOUR CRIMES. TRY AGAIN?
@@ -138,25 +138,25 @@ corgiquest_d0ul2 = THE BOOK FEELS PRETTY MAGICAL, BUT YOU CAN'T READ, SO EXACTLY
 corgiquest_d0ud = YOU FOCUS YOUR INNER SPIRIT AND TAKE IN THE MAGICAL ENERGIES OF THE BOOK AND THE ALTAR, BEFORE SPEAKING THE WORD OF POWER: POWER. YOU FEEL TANGIBLE REALITY SLIP AWAY.
 corgiquest_d0ud2 = IN AN INSTANT, YOU ARE PUSHED DENNISWAYS. YOU ARRIVE IN...
 computergame3 = THANK YOU FOR PLAYING THIS SPECIAL DEMO VERSION OF CORGI QUEST 7 - THE LEASHES THAT BIND.
-computergame4 = CLOSING TEXT-BASED ENTERTAINMENT APPLICATION.
+computergame4 = SCHLIESSE TEXTBASIERTE UNTERHALTUNGSSOFTWARE.
 
-computerearth0 = YOU HAVE SELECTED THE EARTH APPLICATION.
-computerearth1 = EARTH, THE GREATEST MYSTERY OF OUR TIME.
-computerearth2 = MANY ACADEMICS SUBSCRIBE TO THE THEORY THAT EARTH DOES NOT EXIST. THIS THEORY IS SUPPORTED BY THE FACT THAT IT'S REALLY IMPROBABLE, AND THAT'S JUST WHERE SCIENCE IS RIGHT NOW.
-computerearth3 = GIVING FURTHER CREDENCE TO THIS THEORY IS, BY ALL ACCOUNTS, NOBODY CAN CLAIM TO HAVE EVER DISCOVERED EARTH. THERE IS ONLY RECORD OF PEOPLE 'SUPPOSEDLY' BEING BORN THERE, OR BEING TOLD THAT IT IS REAL.
-computerearth4 = THE PREVAILING THEORY IS THAT EARTH IS A MASS SHARED HALLUCINATION, AND THAT WE SHOULD REALLY JUST TAKE THINGS SLOW FOR A WHILE AND CALM DOWN TO SEE IF IT GOES AWAY.
-computerearth5 = CLOSING EARTH APPLICATION.
+computerearth0 = DU HAST DIE ERDANWENDUNG GESTARTET.
+computerearth1 = DIE ERDE, DAS GRÖSSTE MYSTERIUM UNSERER ZEIT.
+computerearth2 = VIELE EXPERTEN SIND DER THEORIE ANGETAN, DIE ERDE SEI NICHT EXISTENT. GESTÜTZT WIRD DIESE THEORIE DURCH DIE TATSACHE, DASS ES EINFACH[br]UNWAHRSCHEINLICH IST. UND AN DIESEM PUNKT IST DIE WISSENSCHAFT EBEN.
+computerearth3 = ZUR WEITEREN STÄRKUNG DIESER THEORIE, NIEMAND KANN BEHAUPTEN DIE ERDE JE ENTDECKT ZU HABEN. ES EXISTIEREN LEDIGLICH BERICHTE ÜBER MENSCHEN, WELCHE "ANSCHEINEND" DORT GEBOREN WURDEN[br]ODER ES WIRD EINFACH ERZÄHLT SIE SEI REAL.
+computerearth4 = DIE ALLGEMEINE THEORIE SAGT AUS, DASS DIE ERDE NUR EINE MASSEN-[br]HALLUZINATION SEI UND DASS WIR DIE DINGE LANGSAM ANGEHEN SOLLTEN, [br]DANN WIRD ES VON ALLEINE VERSCHWINDEN. 
+computerearth5 = SCHLIESSE ERDANWENDUNG.
 
-computerself0 = YOU HAVE SELECTED THE REASSURANCE APPLICATION.
-computerself1 = YOU ARE REALLY LOOKING QUITE NICE TODAY.
-computerself2 = HAVE YOU DONE SOMETHING DIFFERENT WITH YOUR HAIR? YOU'RE LOOKING HEALTHY.
-computerself3 = DON'T FORGET TO CLEAN UP AND KEEP ON TOP OF THINGS. IT CAN BE STRESSFUL IF TASKS PILE UP.
-computerself4 = YOU SHOULD GO OUTSIDE AND GET SOME FRESH AIR, IF YOU CAN. IT'S GOOD TO GET OUTDOORS FOR A WHILE.
-computerself5 = DON'T FORGET TO EAT ENOUGH. TRY NOT TO MISS BREAKFAST, IT'S IMPORTANT.
-computerself6 = IT'S NATURAL TO HAVE FLAWS AND ASPECTS OF YOURSELF YOU AREN'T HAPPY WITH. IT'S OKAY TO WORK ON THEM AT A PACE COMFORTABLE FOR YOU. 
-computerself7 = YOU HAVE VALUE. TAKE CARE OF YOURSELF. BE GOOD TO YOURSELF, AND TO OTHERS.
-computerself7 = CLOSING REASSURANCE APPLICATION.
+computerself0 = DU HAST DIE BEKRÄFTIGUNGSANWENDUNG GESTARTET.
+computerself1 = DU SIEHST WIRKLICH GUT AUS HEUTE.
+computerself2 = TRÄGST DU DEIN HAAR ANDERS? DU SIEHST WIRKLICH GESUND AUS.
+computerself3 = VERGISS NICHT DINGE ZU ERLEEDIGEN UND ORGANISIERT ZU HALTEN. ES KANN STRESSIG WERDEN, WENN SICH AUFGABEN HÄUFEN.
+computerself4 = DU SOLLTEST RAUSGEHEN UND FRISCHE LUFT SCHNAPPEN. ES IST GUT, MAL EIN WENIG DRAUSSEN ZU SEIN.
+computerself5 = VERGISS NICHT, GENUG ZU ESSEN. UND NICHT DAS FRÜHSTÜCK AUSLASSEN, ES IST SEHR WICHTIG.
+computerself6 = ES IST NUR NATÜRLICH, DASS MAN DINGE AN SICH NICHT MAG. UND ES IST OKAY SICH ZEIT ZU NEHMEN UM AN SICH SELBST ZU ARBEITEN. 
+computerself7 = DU BIST WERTVOLL. PASS AUF DICH AUF. SEI GUT ZU DIR SELBST UND ZU ANDEREN.
+computerself7 = SCHLIESSE BEKRÄFTIGUNGSANWENDUNG.
 
-computersurf0 = YOU HAVE SELECTED THE WEB-SURF APPLICATION.
-computersurf1 = UNFORTUNATELY, THE TIDE IS LOW RIGHT NOW. PLEASE CHECK AGAIN LATER.
-computersurf2 = CLOSING WEB-SURF APPLICATION.
+computersurf0 = DU HAST DIE WEB-SURF-ANWENDUNG GESTARTET.
+computersurf1 = LEIDER SIND DIE WELLEN MOMENTAN NICHT GROSS GENUG. BITTE VERSUCHE ES SPÄTER ERNEUT.
+computersurf2 = SCHLIESSE WEB-SURF-ANWENDUNG.

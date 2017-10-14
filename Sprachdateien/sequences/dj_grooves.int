@@ -1,129 +1,129 @@
 [parade]
-welcome0 = Hello, darling! Welcome to the largest studio set you'll ever see!
-welcome1 = We're about to start recording [hint]The Big Parade[/hint], the movie that'll take the breath away from audiences worldwide! You'll be the star, as always!
-welcome2 = For this movie, we'll need to use our [icon:timepiece][timepiece]special prop[/timepiece]! It'll pop out at the very end!
-welcome3 = But wait, darling! Your current outfit really isn't fit for a parade. Can you go over there and get dressed?
-welcome3b = Your current outfit really isn't fit for a parade. Can you go over there and get dressed?
-welcome4 = You look great, darling! Don't worry, this movie is really easy. Keep moving around and the band will follow you! Just don't bump into them!
-welcome5 = And keep an eye out for goodies! The audience loves a good parade and will throw treats your way if you get near them.
-welcome5b = And keep an eye out for refreshments! The off-stage crew will throw 'em your way, to keep you hydrated!
-welcome5c = And keep an eye out for the cameras! The crew will be trying to get as much footage of you as possible, so swing by them whenever possible!
-welcome6 = The parade lasts a while; nothing you can do to speed it up. We'll let you know once we've got enough footage. Don't lose spirit!
-welcome7 = Good luck, darling!
+welcome0 = Hallo, Liebling! Willkommen im größten Studio, das du je gesehen hast!
+welcome1 = Wir sind dabei, mit den Aufnahmen von [hint]"Die große Parade"[hint] zu beginnen, dem Film, der dem Publikum den Atem rauben wird! Und wie immer bist du der Star!
+welcome2 = Für diesen Film brauchen wir unsere spezielle [icon:timepiece][timepiece]Requisite[/timepiece]! Sie wird ganz am Ende rausspringen!
+welcome3 = Aber warte, Liebling! Dein Outfit ist wirklich nicht geeignet für eine Parade. Kannst du dich dort drüben umziehen?
+welcome3b = Dein Outfit ist wirklich nicht geeignet für eine Parade. Kannst du dich dort drüben umziehen?
+welcome4 = Du siehst toll aus, Liebling! Keine Sorge, dieser Film ist ein Kinderspiel. Bleib in Bewegung und die Band folgt dir! Aber stoß bloß nicht mit ihnen zusammen!
+welcome5 = Und halte Ausschau nach Goodies! Das Publikum liebt eine gute Parade und wirft dir ein paar Kostbarkeiten zu, wenn du ihnen nahe kommst.
+welcome5b = Und achte auf Verpflegung! Die Off-Stage-Crew wirft sie dir hin, damit du fit bleibst!
+welcome5c = Und wirf ein Auge auf die Kameras! Die Crew wird versuchen, so viel Filmmaterial wie möglich von dir zu sammeln, also lass dich oft genug blicken!
+welcome6 = Die Parade dauert eine Weile; nichts, was du tust, wird sie beschleunigen. Wir sagen dir Bescheid, wenn wir genug Material haben. Verlier nicht den Mut!
+welcome7 = Viel Glück, Liebling!
 
-first_intermission0 = It's time to turn the heat up in this movie!
-first_intermission1 = Darling, can you turn on the pyrotechnics?
+first_intermission0 = Es wird Zeit, diesen Film aufzuheizen!
+first_intermission1 = Liebling, kannst du die Pyrotechnik einschalten?
 
-second_intermission0 = This movie needs more action! Darling, turn on the firework cannons[br]for the big firework show!
+second_intermission0 = Dieser Film braucht mehr Action! Liebling,[br]mach die Kanonen für das große Feuerwerk an!
 
-third_intermission0 = Time to release the [icon:timepiece][timepiece]parade surprise[/timepiece]![br]Grab it, darling!
+third_intermission0 = Zeit, die für große [icon:timepiece][timepiece]Überraschung der Parade[/timepiece]![br]Schnapp sie dir, Liebling!
 
 [deadbird]
-intro0 = Nonsense, darling, nonsense!
-intro1 = You [name]Owl Express birds[/name] are just going to record another boring train-related western! You've done so for the last ten years, darling!
-intro2 = [icon:conductor][name]Conductor[/name], darling, this year we'll be winning the [icon:trophy][trophy]annual bird movie award[/trophy], as our new movie props will bring in the audiences!
-intro3 = These [icon:timepiece][timepiece]shiny things[/timepiece] fell from the sky! They will light our movie sets and fill them with glimmer!
-intro4 = I would never, darling! Clearly you're the one who took inspiration in my flashy new props.
-intro5 = Fine by me, darling. But we'll be the ones who win the [icon:trophy][trophy]annual bird movie award[/trophy], mark my word!
+intro0 = Unfug, Liebling, Unfug!
+intro1 = Ihr [name]Eulen-Express-Vögel[/name] werdet einfach einen weiteren langweiligen Zug-Western drehen! Das hast du die letzten zehn Jahre getan, Liebling!
+intro2 = [icon:conductor][name]Schaffner[/name], Liebling, in diesem Jahr werden wir den jährlichen [icon:trophy][trophy]Vogelfilm-Preis[/trophy] gewinnen, weil unsere neuen Filmrequisiten das Publikum begeistern werden!
+intro3 = Diese [icon:timepiece][timepiece]glänzenden Dinger[/timepiece] fielen vom Himmel! Die werden unsere Filmsets beleuchten und mit Glanz füllen!
+intro4 = Das würde ich niemals tun, Liebling! Offensichtlich warst du derjenige, der sich von meinen auffälligen neuen Requisiten inspirieren ließ.
+intro5 = Wegen mir, Liebling. Aber wir werden diejenigen sein, die den jährlichen [icon:trophy][trophy]Vogelfilm-Preis[/trophy] gewinnen.
 
-passport0 = Magnificent! Stunning! This trophy is everything I desire... on the shelf in my living room!
-passport1 = Of course, this big trophy is just a plastic replica! The actual trophy is really tiny!
-passport2 = Oh my! Oh my! What is that I see? Is it true inner beauty? An innocent soul with a heart of gold?
-passport3 = Oh, no. It's just a little girl. Hello!
-passport3b = Oh, no. It's just a little boy. Hello!
-passport4 = Oh wait, you're not a penguin. That's good! I could use some non-penguin company around here, as all my penguins are frankly terrible actors!
-passport5 = Here's the biz: I need your help. I'm on a terrible losing streak, and I just HAVE to win this next [icon:trophy][trophy]annual bird movie award[/trophy].
-passport6 = There's no doubt; I absolutely MUST have you as the star! Here, let me take care of this.
-passport7 = We need to give you a bird passport, darling! Step right over here.
-passport8 = The most important part of a passport is the picture, darling! You have to look flashy and stunning! Step right over here. Let's take the pic.
-passport9 = OK, put on a smile, and stand still, please! Don't move!
-passport10 = Let's see how the picture turned out...
-passport11 = WH-WHA?!
-passport12a = Darling, you're not very photogenic, huh?
-passport12b = Darling, you moved! The picture is ruined! How could you?!
-passport13 = We've gotta fix this ugly mugshot up with some old-fashioned photo doctoring! Here, take these markers and turn yourself into the most stylish, fashionable young lady!
-passport13b = We've gotta fix this ugly mugshot up with some old-fashioned photo doctoring! Here, take these markers and turn yourself into the most stylish, fashionable young boy!
-passport14 = Perfect! Let's slide this picture into your passport, and... here you go! One passport for you!
-passport15 = Wonderful, darling! Just wonderful! Meet me at the movie set tomorrow, and we'll make you a star!
+passport0 = Großartig! Atemberaubend! Diese Trophäe ist alles, was ich mir je gewünscht habe... im Regal in meinem Wohnzimmer!
+passport1 = Natürlich ist diese große Trophäe nur ein Nachbau! Die eigentliche Trophäe ist ganz klein!
+passport2 = Oh je! Oh je! Was sehe ich da? Ist es wahre innere Schönheit? Eine unschuldige Seele mit einem Herzen aus Gold?
+passport3 = Oh, nein. Doch nur ein kleines Mädchen. Hallo!
+passport3b = Oh, nein. Doch nur ein kleiner Junge. Hallo!
+passport4 = Moment, du bist kein Pinguin. Das ist gut! Ich könnte etwas Nicht-Pinguin Gesellschaft gebrauchen, denn alle meine Pinguine sind furchtbare Schauspieler!
+passport5 = Hier ist der Plan: Ich brauche deine Hilfe. Ich habe eine schreckliche Pechsträhne, und ich muss einfach den nächsten jährlichen [icon:trophy][trophy]Vogelfilm-Preis[/trophy] gewinnen.
+passport6 = Es besteht kein Zweifel: Ich muss dich unbedingt als Star haben! Hier, ich kümmere mich um das hier.
+passport7 = Wir müssen dir einen Vogelausweis ausstellen, Liebling! Stell dich hier rüber.
+passport8 = Der wichtigste Teil eines Ausweises ist das Bild, Liebling! Du musst schick und umwerfend aussehen! Stell dich hier rüber. Schießen wir das Foto.
+passport9 = Okay, setz ein Lächeln auf und bleib bitte stehen! Nicht bewegen!
+passport10 = Mal sehen, wie das Bild geworden ist...
+passport11 = WA-WAS?!
+passport12a = Liebling, du bist nicht sehr fotogen, was?
+passport12b = Liebling, du hast dich bewegt! Das Bild ist ruiniert! Wie konntest du nur?!
+passport13 = Wir müssen dieses hässliche Verbrecherfoto mit ein paar altbewährten Tricks ausbessern! Hier, nimm diesen Stift und mach dich zu einer stilvollen, modischen jungen Dame!
+passport13b = Wir müssen dieses hässliche Verbrecherfoto mit ein paar altbewährten Tricks ausbessern! Hier, nimm diesen Stift und mach dich zu einem stilvollen, modischen jungen Mann!
+passport14 = Perfekt! Jetzt kommt das Foto in deinen Ausweis, und... bitte schön! Ein Vogelausweis für dich!
+passport15 = Wunderbar, Liebling! Einfach wunderbar! Wir treffen uns morgen am Set und dann machen wir dich zum Star!
 
 [award]
-intro0 = Thank you darling, thank you![br]You secured our victory! We won the [icon:trophy][trophy]annual bird award trophy[/trophy]!
-intro1 = The [icon:conductor][name]Conductor[/name] is probably awfully sour from his second loss ever, but don't worry, he'll come around.
-intro2 = Anyway, we're all done here! No more movies until next year. Since you're so eager to get your hands on them, you can take my final [icon:timepiece][timepiece]movie prop[/timepiece] as your last movie star payment.
-intro3 = What, you were expecting something crazy to happen?[br]Nonsense, darling, nonsense!
+intro0 = Danke, Liebling, danke! Du hast uns den Sieg beschert! Wir haben den jährlichen [icon:trophy][trophy]Vogelfilm-Preis[/trophy] gewonnen!
+intro1 = Der [icon:conductor][name]Schaffner[/name] ist wahrscheinlich sehr sauer über seinen zweiten Verlust überhaupt. Aber keine Sorge, der wird schon wieder.
+intro2 = Wie auch immer, wir sind hier fertig! Keine Filme mehr bis zum nächsten Jahr. Da du so bestrebt warst, das hier in die Finger zu bekommen, kannst du meine verbleibende [icon:timepiece][timepiece]Requisite[/timepiece] als letzte Zahlung nehmen.
+intro3 = Was, du hast gedacht, dass etwas Verrücktes passiert?[br]Unfug, Liebling, Unfug!
 
 [BossBattle]
-SupportNotice0 = Darling! Darling!
-SupportNotice1 = Hang in there,[br]I'll find a way to[br]defuse the bomb!
-SupportNotice2 = My defuser is[br]ready, come here!
+SupportNotice0 = Liebling! Liebling!
+SupportNotice1 = Halte durch,[br]ich finde einen Weg,[br]die Bombe zu entschärfen!
+SupportNotice2 = Mein Entschärfer[br]ist bereit, komm her!
 
-hth_intro0 = Let's have a little heart-to-heart. Have a seat, darling.
-hth_intro1 = Ever since you arrived on this planet, these [icon:timepiece][timepiece]Time Pieces[/timepiece] have fallen from the sky.
-hth_intro2 = Now, I can understand if you feel they belong to you, darling. I understand. But did you know they allow for rewinding time?
-hth_intro3 = With one [icon:timepiece][timepiece]Time Piece[/timepiece], I could reclaim all the trophies that belong to me, darling. Every single trophy I've lost to the [icon:conductor][name]Conductor[/name], where he has cheated his way to victory.
-hth_intro4 = I can't prove it, darling, but I'm certain the [icon:conductor][name]Conductor[/name] has been manipulating everything to make sure I never win.
-hth_intro5 = I need just one [icon:timepiece][timepiece]Time Piece[/timepiece] to fix years of cheating and fraud. Can't you spare me just [hint]one Time Piece[/hint], darling?
-hth_intro5_yes = Maybe?
-hth_intro5_no = Nope!
-hth_intro6a = Thank you, darling! You won't regret it! We'll fix years of fraud and cheating, and go back to the [icon:trophy][trophy]annual bird movie awards[/trophy] being honest and upstanding!
-hth_intro7a = Unfortunately... I can't have you leave this room, darling. I can't risk word getting out. The [icon:conductor][name]Conductor[/name] will throw a hissy fit like never seen before!
-hth_intro8a = It was nice knowing you, darling. Goodbye!
-hth_intro6b = Darling, darling, darling. You're so persistently selfish. I've brought you to stardom, and all I ask in return is a single [icon:timepiece][timepiece]Time Piece[/timepiece]... but you won't share?
-hth_intro7b = Well, darling, if you want this [icon:timepiece][timepiece]Time Piece[/timepiece] back so bad, come and get it!
-hth_intro9 = Remember this bomb, darling? I stole it from the [icon:conductor][name]Conductor[/name]'s movie set, and now it'll be your demise!
+hth_intro0 = Lass uns ein kleines Gespräch unter zwei Schnäbeln führen. Setz dich, Liebling.
+hth_intro1 = Als du auf den Planeten gekommen bist, sind diese[icon:timepiece][timepiece]Sanduhren[/timepiece] vom Himmel gefallen.
+hth_intro2 = Ich weiß, dass sie dir gehören, Liebling. Ich verstehe. Aber wusstest du, dass sie die Zeit zurückdrehen können?
+hth_intro3 = Mit einer [icon:timepiece][timepiece]Sanduhr[/timepiece] könnte ich alle Trophäen zurückerobern, die mir zustehen, Liebling. Jede einzelne Trophäe, die sich der [icon:conductor][name]Schaffner[/name] ermogelt hat.
+hth_intro4 = Ich kann es nicht beweisen, Liebling, aber ich bin mir sicher, dass der [icon:conductor][name]Schaffner[/name] alles manipuliert hat, um zu verhindern, dass ich je gewinne.
+hth_intro5 = Ich brauche nur eine einzige [icon:timepiece][timepiece]Sanduhr[/timepiece], um den jahrelangen Schwindel zu beheben. Kannst du nicht [hint]eine Sanduhr[/hint] für mich entbehren, Liebling?
+hth_intro5_yes = Vielleicht?
+hth_intro5_no = Nee!
+hth_intro6a = Danke, Liebling! Du wirst es nicht bereuen! Wir bringen den jahrelangen Betrug in Ordnung und machen die jährlichen [icon:trophy][trophy]Vogelfilm-Preise[/trophy] wieder zu einer ehrlichen Sache!
+hth_intro7a = Leider... Ich kann nicht zulassen, dass du diesen Raum verlässt. Es ist zu riskant. Der [icon:conductor][name]Schaffner[/name] wird einen Wutanfall wie noch nie zuvor bekommen!
+hth_intro8a = Nett, dich kennengelernt zu haben, Liebling. Auf Wiedersehen!
+hth_intro6b = Liebling, Liebling, Liebling. Du bist so bist und bleibst egoistisch. Ich habe dir zum Ruhm und Ehre verholfen, und alles, was ich als Gegenleistung erbitte, ist eine einzige [icon:timepiece][timepiece]Sanduhr[/timepiece]... aber du willst nicht teilen?
+hth_intro7b = Nagut, Liebling, wenn du die [icon:timepiece][timepiece]Sanduhr[/timepiece] so dringend haben willst, hol sie dir doch!
+hth_intro9 = Kennst du diese Bombe noch? Ich habe sie aus dem Filmset des [icon:conductor][name]Schaffners[/name] gestohlen, und jetzt ist sie dein Untergang!
 
-Intro0 = Look who we've got here, darling! I guess you found my little secret, huh?
-Intro1 = This last [icon:timepiece][timepiece]Time Piece[/timepiece] is all for me, darling. If you want it, well, I guess you've just gotta come and get it.
+Intro0 = Sieh mal an, wen haben wir denn da! Ich schätze, du hast mein kleines Geheimnis entdeckt, was?
+Intro1 = Diese letzte [icon:timepiece][timepiece]Sanduhr[/timepiece] ist ganz allein mein, Liebling. Wenn du sie willst, dann musst du sie dir wohl einfach holen kommen.
 
 
 [PicturePerfect]
-Intro0 = Welcome to the first day of shooting, darling!
-Intro1 = We need to transform you into the biggest movie star the bird world has ever seen! You need to become... a diva!
-Intro2 = That's why I've called for a press conference here on our moon set. You need to get out there in front of the cameras, and electrify the public, darling! Get 'em really up and going for your movies!
-Intro3 = Once you've got them going crazy, come back here and we'll show off our new prop! That's right, we'll unveil our new [icon:timepiece][timepiece]movie prop[/timepiece] to the masses!
-Endorsement_Generic0 = You called, darling? Looks like it's endorsement time!
-Endorsement_Generic1 = All you penguins out there know my name... [name]DJ Grooves[/name]![br]And I'm telling you, this young girl here is the next hot thing. Guaranteed!
-Endorsement_Generic2 = Make sure you join her fanclub! DJ Grooves... out!
+Intro0 = Willkommen zum ersten Drehtag, Liebling!
+Intro1 = Wir müssen dich in den größten Filmstar verwandeln, den die Vogelwelt je gesehen hat! Du musst... eine Diva werden!
+Intro2 = Deshalb habe ich zu einer Pressekonferenz hier auf dem Mond aufgerufen. Du musst vor die Kameras und das Publikum elektrisieren, Liebling! Mach sie richtig scharf auf deine Filme!
+Intro3 = Wenn sie erst einmal durchdrehen, komm zurück und wir präsentieren unsere neue Requisite! Genau, wir enthüllen unsere neue [icon:timepiece][timepiece]Filmrequisite[/timepiece] der breiten Masse!
+Endorsement_Generic0 = Du hast gerufen, Liebling? Sieht aus als ist es Zeit für eine Empfehlung!
+Endorsement_Generic1 = Alle ihr Pinguine kennt meinen Namen... [name]DJ Grooves[/name]![br]Und ich sage euch, dieses junge Mädchen hier ist das nächste heiße Ding. Garantiert!
+Endorsement_Generic2 = Schließt euch ihrem Fanclub an! DJ Grooves... over!
 
-Endorsement_Statue0 = Just look, as she'll climb up this statue and rescue the poor puppy that has gotten stuck! Right, darling?
-Endorsement_Statue1 = Look at that! She helped the puppy down, safe and sound! Too bad it ran off, and definitely didn't break into multiple pieces.
-Endorsement_Statue2 = This is truly a diva I can get behind. Let it be known that this lil' girl is all about animals!
+Endorsement_Statue0 = Seht nur, wie sie diese Statue hochklettert und den armen Welpen retten wird! Stimmt' s, Liebling?
+Endorsement_Statue1 = Schaut euch das an! Sie hat dem Welpen wohlbehalten runtergeholfen! Zu schade, dass er weggelaufen ist und definitiv nicht in viele Teile zerbrochen ist.
+Endorsement_Statue2 = Das ist wirklich die Diva, hinter der ich stehen will. Lasst alle wissen, dass es dieses kleine Mädchen der größte Tierfreund ist!
 
-Endorsement_Poker0 = Watch as she beats these hard-boiled card players at their own game... on her first try!
-Endorsement_Poker1 = This game is easy to understand, darling. You just guess which number of card the other player is holding, from [hint]1 to 10[/hint]. Which card do you think he's holding, darling?
-Endorsement_Poker2 = Wow! Fantastic! Incredible! The answer is indeed [hint]3[/hint]! Folks at home, you have just witnessed the stunning intuition of a true star.
-Endorsement_Poker3 = Aww, too bad, darling! The answer was [hint]3[/hint]! Folks at home, this just shows that our new break-out star is relatable. She makes mistakes just like everyone else!
+Endorsement_Poker0 = Schaut hin, wie sie diese hart-gekochten Kartenspieler bei ihrem eigenen Spiel schlägt... beim ersten Versuch!
+Endorsement_Poker1 = Dieses Spiel ist leicht zu verstehen, Liebling. Du musst nur raten, welche Zahl auf der Karte der andere Spieler steht, [hint]von 1 bis 10[/hint]. Welche Karte, glaubst du, hält er in der Hand?
+Endorsement_Poker2 = Wow! Fantastisch! Wahnsinn! Die Antwort lautet in der Tat [hint]3[/hint]! Ihr habt gerade das atemberaubende Gespür eines wahren Stars erlebt.
+Endorsement_Poker3 = Oh, schade, Liebling! Die Antwort war [hint]3[/hint]! Leute da draußen, das zeigt nur, dass unser neuer Stern am Himmel so wie wir ist. Sie macht Fehler wie jeder andere auch!
 
-Endorsement_Cooking0 = Now, darling, I have to mention this. Cooking show hosts have a terrible track record of getting angry and swearing on-screen. Try not to use the P-word, OK? Don't say p-e-c-k.
-Endorsement_Cooking1 = The [icon:conductor][name]Conductor[/name] is old-fashioned. He throws that word around a lot. It'll get him in trouble some day! Until then, let's keep our show clean.
-Endorsement_Cooking2 = Hello viewers! Even the biggest celebrities have to eat, and I've got with me the biggest celebrity of them all.
-Endorsement_Cooking3 = Now tell us darling, what kind of condiment do you like on your tuna sandwiches?
-Endorsement_Cooking3_a = Ranch
+Endorsement_Cooking0 = Liebling, ich muss das jetzt erwähnen. TV-Köche haben eine schreckliche Bilanz, wütend zu werden und im Fernsehen zu fluchen. Versuch, das P-Wort nicht zu benutzen, okay? Sag nicht P-e-c-k.
+Endorsement_Cooking1 = Der [icon:conductor][name]Schaffner[/name] ist vom alten Schlag. Er wirft mit dem Wort um sich, als gäbe es kein Morgen. Das wird ihn eines Tages Probleme bereiten! Bis dahin halten wir unsere Show sauber.
+Endorsement_Cooking2 = Hallo Zuschauer! Selbst die größten Promis müssen was essen, und ich habe den größten Star von allen bei mir.
+Endorsement_Cooking3 = Erzähl uns, Liebling, welche Sauce magst du auf deinem Thunfischsandwich?
+Endorsement_Cooking3_a = Barbecue
 Endorsement_Cooking3_b = Ketchup
 Endorsement_Cooking3_c = Mayo
 Endorsement_Cooking3_d = PECK
-Endorsement_Cooking4 = Amazing! I bet that eating tuna sandwiches like that is probably how she keeps her slim figure! Take note, penguin viewers!
-Endorsement_Cooking5 = [scream][big]DARLING![/big][/scream]
-Endorsement_Cooking6 = I-I mean... fellow viewers! Look at the mouth on this young girl. She's really something.
-Endorsement_Cooking7 = [small]Now shoo, get out of this endorsement as soon as you can,[br]before the old penguins watching TV notice what just happened.[/small]
+Endorsement_Cooking4 = Erstaunlich! Ich wette, dass sie so ihre schlanke Figur behält! Merkt euch das, Pinguin-Zuschauer!
+Endorsement_Cooking5 = [scream][big]LIEBLING![/big][/scream]
+Endorsement_Cooking6 = I-Ich meine... werte Zuschauer! Seht euch den flotten Schnabel dieses Mädchens an. Sie ist wirklich etwas Besonderes..
+Endorsement_Cooking7 = [small]Jetzt husch, raus hier, bevor die alten Pinguine[br]vor den Fernsehern merken, was gerade passiert ist.[/small]
 
-Endorsement_Alley0 = Look at how street-smart this diva is. She's standing in this sinister alleyway, right next to some potential wrongdoers!
-Endorsement_Alley1 = Danger is her middle name, and she's not afraid to step outside of her comfort zone!
+Endorsement_Alley0 = Seht euch an, wie gerissen diese Diva ist. Sie steht in dieser finsteren Gasse, direkt neben ein paar potenziellen Verbrechern!
+Endorsement_Alley1 = Gefahr ist ihr zweiter Vorname, und sie hat keine Angst, wenn es mal unangenehm für sie werden könnte!
 
-Ending0 = The audience is going crazy, darling! Come over here and show off our new stunner... our [icon:timepiece][timepiece]new prop[/timepiece]!
+Ending0 = Das Publikum dreht durch, Liebling! Komm her und präsentiere unseren neuen Kicker... unsere neue [icon:timepiece][timepiece]Requisite[/timepiece]!
 
 [Highscore]
-NewHighScore0 = Good job, darling!
-NewHighScore1 = So close to victory, darling!
-NewHighScore2 = The trophy will be ours, darling!
-NoNewScore0 = It's OK, darling! Next time!
-NoNewScore1 = It's hard to repeat success!
-NoNewScore2 = Try again, darling!
+NewHighScore0 = Gut gemacht, Liebling!
+NewHighScore1 = So kurz vor dem Sieg, Liebling!
+NewHighScore2 = Die Trophäe gehört uns, Liebling!
+NoNewScore0 = Ist schon gut, Liebling! Beim nächsten Mal!
+NoNewScore1 = Es ist nicht leicht, Erfolge zu wiederholen!
+NoNewScore2 = Probier's noch mal, Liebling!
 
 [finale]
-outside0 = Good to see you, darling! Nice to know I'm not the only super-star waiting around this tawdry place.
-outside1 = Slide on up past those doors and find out who's calling the shots, won't you?
+outside0 = Schön, dich zu sehen, Liebling! Gut zu wissen, dass ich nicht der einzige Superstar bin, der in diesem geschmacklosen Laden Schlange steht.
+outside1 = Schlüpf mal hinter die Türen und finde raus, wer hier der Regisseur ist, ja?
 
 [ending]
-hang0 = Let's watch our movie, darling!
-hang1 = We'll miss youuuuuuuuuuuuuu...!!!
+hang0 = Lass uns unseren Film sehen, Liebling!
+hang1 = Wir werden dich vermissen, Liebliiiiiiiiiiiiiiiiiiiii...!!!

@@ -1,93 +1,93 @@
 [murder]
-CrowAskForDetails0 = Hast du auch all die Krähen bemerkt?
-CrowAskForDetails1 = Sie fragen mich die ganze Zeit nach persönlichen Details und ich weiss nie, was ich sagen soll!
+CrowAskForDetails0 = Hast du die ganzen Krähen hier überall gesehen?
+CrowAskForDetails1 = Sie fragen ständig nach persönlichen Daten und ich weiß nie, was ich antworten soll!
 
-CrowsGotOn0 = Auf einmal sind hier sehr viele Krähen auf dem Zug. Sie sind alle beim letzten Bahnhof eingestiegen.
-CrowsGotOn1 = Wo wir gerade davon sprechen, wann bist du eingestiegen?
+CrowsGotOn0 = Hast du bemerkt, dass plötzlich viele Krähen in diesem Zug sind? Sie sind alle beim letzten Halt eingestiegen.
+CrowsGotOn1 = Apropos, an welcher Haltestelle bist du in den Zug gestiegen?
 CrowsGotOn2 = ...
-CrowsGotOn3 = ... Wie du bist vom Himmel gefallen?
+CrowsGotOn3 = ... was meinst du damit, du bist vom Himmel gefallen?
 
-CrowsAnnoy0 = Es ist echt schwer einen guten Platz im Zug zu finden, wenn die ganzen Krähen alles blockieren.
-CrowsAnnoy1 = Sie fragen mich immer nach allem was ich mache!
+CrowsAnnoy0 = Es ist wirklich schwierig, sich hier im Zug einzurichten, wenn die Krähen den Laden überfüllen.
+CrowsAnnoy1 = Sie befragen mich ständig über alles, was ich tue!
 
-ScientificEquation0 = Ich verstehe nicht, wie dies eine wissenschaftliche Gleichung ist?[br]Es sind nur zusammegeworfene Zahlen und Buchstaben, wie auf diesen Webseiten.
+ScientificEquation0 = Ich verstehe das nicht, weshalb ist das eine wissenschaftliche Gleichung? Es sind nur zufällige Zahlen und Buchstaben, wie man sie auf einem Online-Formular sieht.
 
-StayOut0 = Warte, komm nicht hier rein. Ich habe meine Kontaktlinse verloren... bitte tritt nicht drauf![br]Ich kann hier nicht weggehen, sonst werde ich noch selbst drauf treten!
-StayOut1 = Ich hoffe niemand geht in den VIP bereich und tritt versehentlich auf meine Kontaktlinse...
-PostMurder0 = Man, ich wollte doch nur nach Hause von der Arbeit. Ich hab keine Zeit für einen geheimen Mord.
-PostMurder1 = Meine Frau wird mir die Hölle heiss machen.
+StayOut0 = Warte, geh hier nicht rein. Ich habe meine Kontaktlinsen verloren. Bitte nicht drauf treten! Ich kann auch nicht aus dem Weg gehen, ich könnte selbst drauf treten!
+StayOut1 = Ich hoffe, niemand geht in den VIP-Bereich und tritt versehentlich auf meine Kontaktlinsen...
+PostMurder0 = Mann, ich wollte nur von der Arbeit nach Hause. Ich habe mich nicht für einen großen Kriminalfall eingetragen.
+PostMurder1 = Meine Frau wird mich umbringen.
 
-OwlHiddenRoom0 = So lässt's sich leben.[br]Nix übertrifft eine[br]heiße Sauna.
-OwlHiddenRoom1 = Hast du auch[br]draussen was gehört?
-OwlHiddenRoom2 = Eh, Ignorier es.[br]Ich will nicht[br]raus in die Kälte.
+OwlHiddenRoom0 = Mann, das ist ein Leben.[br]Nichts geht über[br]eine heiße Sauna.
+OwlHiddenRoom1 = Hast du draußen[br]etwas gehört?
+OwlHiddenRoom2 = Ach, pick drauf,[br]ich will nicht[br]raus in die Kälte.
 
-VictimRubberKnife0 = Kann ich jetzt gehen? Vom vielen Schauspielern als Leiche wurd mir leicht schlecht.
-VictimRubberKnife1 = Dieses Gummi Messer ist auch ziemlich unbequem.
+VictimRubberKnife0 = Ja, kann ich jetzt gehen? Ich bin irgendwie wund, vom langen Totstellen.
+VictimRubberKnife1 = Dieses Gummimesser ist auch etwas unbequem.
 
 suspect_sciowls0 = ...
-suspect_sciowls1 = Es ist wahr.
-suspect_sciowls2 = Wir waren in der lounge und haben Kartenspiele gespielt, und es hat so viel Spaß gemacht! Jeder hat die Ruhe beim Spielen genossen!
-suspect_sciowls3 = ... Und Robin konnte nicht aufhören mit offenem Mund zu essen.
-suspect_sciowls4 = Wer isst bitte mit offenem Mund? Deswegen haben wir ihn mit dem Messer gestochen damit wir unsere Ruhe haben.
+suspect_sciowls1 = Es ist stimmt.
+suspect_sciowls2 = Wir saßen in der Lounge, spielten Karten und hatten so viel Spaß! Jeder genoss die Ruhe und Stille!
+suspect_sciowls3 = ... und Robin hörte nicht auf, mit offenem Mund zu kauen.
+suspect_sciowls4 = Ernsthaft, wer kaut mit offenem Mund? Also haben wir ihn mit dem Gummimesser erstochen, damit wieder Ruhe und Frieden eingekehrt.
 
-suspect_victim0 = Ihr habt mich durchschaut.
-suspect_victim1 = Ich war an der Reihe den Eulen Express zu säubern, und habe mich entschieden meinen... uhh... Tod vorzutäuschen, mit einem Gummi Messer.
-suspect_victim2 = Aber es ist diesen ganzen Ärger nicht wert. Ich fang jetzt an aufzuräumen.
+suspect_victim0 = Es scheint, du hast meine Farce durchschaut.
+suspect_victim1 = Ich war an der Reihe, den Eulen-Express zu putzen, und ich entschied mich, ähhh... meinen Tod mit diesem Gummimesser vorzutäuschen.
+suspect_victim2 = Aber dieser ganze Ärger ist es nicht wert. Ich fange gleich an zu putzen.
 
-suspect_hatkid0 = Eigentlich geht es mir gut.
-suspect_hatkid1 = Sie hat mir nur dieses Gummi Messer gegeben und gesagt ich soll mich Tot stellen.
-suspect_victim_idle0 = Man, Ich hab eine ganze Flasche Ketchup dafür verbraucht damit dieser Mord echt aussieht...
+suspect_hatkid0 = Mir geht's eigentlich gut.
+suspect_hatkid1 = Sie hat mir dieses falsche Gummimesser übergestülpt und mir gesagt, ich solle tot spielen.
+suspect_victim_idle0 = Mann, ich habe sogar eine ganze Flasche Ketchup verschwendet, damit dieser Mord echt aussieht...
 
 [DeadBird]
-prop0 = Huh, du willst das Film Prop haben was sie reingetragen haben?
-prop1 = Bist du etwa einer dieser Leute der Film Props auf eBird verkauft?
+prop0 = Huh, willst du die Requisite, die sie reingetragen haben?
+prop1 = Bist du die Art von Person, die Filmrequisiten auf eBird verkauft?
 
-intro0 = Uhhh, hallo. Ich bin eine [name]Express Eule[/name]. Was wirklich nur heißt das ich mit dem [name]Eulen Express[/name] vom [icon:conductor][name]Schaffner[/name] fahre.
-intro1 = Ich muss mit dem Zug zur Arbeit fahren, aber der [icon:conductor][name]Schaffner[/name] hält immer irgendwo an.
-intro2 = Ich habe keine Ahnung warum wir bei einem Film Studio sind. Ich muss in 15 Minuten auf der Arbeit sein!
+intro0 = Ähhh, hallo. Ich bin eine [name]Express-Eule[/name]. Was bedeutet, dass ich den [name]Eule-Express[/name] fahre, den der [icon:conductor][name]Schaffner[/name] steuert.
+intro1 = Ich muss den Zug zur Arbeit nehmen, aber der [icon:conductor][name]Schaffner[/name] hält die ganze Zeit unerwartet an.
+intro2 = Ich habe keine Ahnung, wieso wir in einem Filmstudio sind. Ich muss in 15 Minuten auf der Arbeit sein!
 
-guard0 = Sorry, aber der [icon:conductor][name]Schaffner[/name] hat gesagt das nur Vögel ab hier erlaubt sind. Und vor allem keine Penguine.
-guard1 = Ich hab keine Ahnung -warum-, Ich bin nur ein Fahrgast. Hoffentlich können wir bald weiterfahren.
+guard0 = Uh yeah sorry, der [icon:conductor][name]Schaffner[/name] hat gesagt, dass hier nur Vögel vorbeikommen dürfen. Und er sagte ausdrücklich, keine Pinguine jeglicher Art.
+guard1 = Ich habe keine Ahnung -warum-, ich bin nur ein Passagier in seinem Zug. Solange wir wieder schneller in den Zug zurückkommen.
 
-feud0 = Ich verstehe diesen Wettkampf zwischen dem [name]Schaffner[/name] und [icon:djgrooves][name]DJ Grooves[/name] nicht.
-feud1 = Warum will ein Zugführer und ein DJ gegeneinander antreten? Wir sind doch alle Vögel hier, oder? Sollten wir nicht zusammenhalten?
-feud2 = ... Ich weiß nicht. Ich glaube zusammenhalten ist irgendwie doof. Denke ich. Ja... ignorier mich einfach...
+feud0 = Ich verstehe diese Rivalität zwischen dem [icon:conductor][name]Schaffner[/name] und [icon:djgrooves][name]DJ Grooves[/name] nicht.
+feud1 = Warum sollten ein Lokomotivführer und ein Disco-Typ gegeneinander antreten? Wir sind doch alle Vögel hier, oder? Sollten wir nicht zusammenhalten?
+feud2 = ... Ich weiß nicht, ich vermute, zusammenhalten ist irgendwie blöd. Das wird's sein. Ja... beachte mich gar nicht...
 
-reception_desk0 = Ich wollte den Vogel an der Rezeption etwas fragen, aber er hat mich noch nicht wahrgenommen.
-reception_desk1 = Uhh, ich stehe jetzt schon so lange hier, es wäre seltsam wenn ich jetzt eine Konversation starte.
-reception_desk2 = Ich bin wirklich schlecht in der Interaktion mit anderen Vögeln.
+reception_desk0 = Ich wollte dem Empfangstypen eine Frage stellen, aber er nimmt mich gar nicht zur Kenntnis.
+reception_desk1 = Aber jetzt, wo ich schon so lange hier stehe, wäre es peinlich, einfach so ein Gespräch zu beginnen.
+reception_desk2 = Ich bin wirklich nicht gut darin, mit anderen Vögeln umzugehen.
 
 [ExpressBand]
-intro0 = Hey! Wir sind die [name]Express Band[/name], wir sind Eulen die Musik auf dem Zug des [icon:conductor][name]Schaffners[/name] spielen. 
-intro1 = Ist es OK wenn wir hier ein wenig üben? Wenn du Song fragen hast, immer raus damit! Wir spielen alles was du auf dem Gewissen hast!
+intro0 = Heda! Wir sind die [name]Express Band[/name]. Ein Haufen Eulen, die sich zusammenschlossen, um im Eulen-Express vom [icon:conductor][name]Schaffner[/name] Musik zu spielen. 
+intro1 = Können wir hier üben? Im Gegenzug spielen wir auch unglaublich gerne alle deine Songwünsche!
 
-initial0 = Möchtest du die Musik austauschen die du in Kapiteln hörst, oder willst du uns üben hören?
-initial0_a = Musik austauschen
-initial0_b = Spielt mir eine melodie
-initial0_c = Bye!
-listentomusic_generic0 = Okay, Hör dir das an. Es ist ein neues Stück an dem wir gearbeitet haben!
-listentomusic_bubblegum0 = Okay, Ohren auf. Wir haben diese Melodie in einem fernen Dorf gehört![br]Es hört sich sehr nach Kaugummi an! 
-listentomusic_caverave0 = Okay, Hör dir das an. Es ist ein neues Stück an dem wir gearbeitet haben.[br]Es gibt dir Heißhunger auf Kürbissuppe, aus irgendeinem Grund!
-listentomusic_heatdusts0 = Okay, zieh dir das rein, frisch aus dem Ofen! Es ist ein ruhiger Song, pefekt für Fahrten auf langen Straßen!
-listentomusic_foxmask0 = Okay, hör zu, das hier ist ein alter Ohrwurm.[br]Er gibt dir ein Warmes Gefühl, ist aber auch ein bisschen hinterhältig, wie ein Fuchs.[br]Auch ein bisschen Unheimlich!
-listentomusic_heatgusts0 = Okay, gut zuhören, wir haben gerade an diesen Track gearbeitet. Er hat ein Wüsten ähnliches Gefühl an sich.
-listentomusic_moonswing0 = Okay, hergehört, der hier kommt vom Mond.[br][name]Die Lazy Paw Gang[/name] weiß einfach wie man gute Jazz songs macht![/name]
-listentomusic_electroswing0 = Hör dir das an, das ist das beste Stück von uns [name]Express Eulen[/name].[br]Wir haben dieses mal einen Frischen Groove hinzugefügt. Was hälst du davon?
-listentomusic_newadventure0 = Okay, vielleicht hast du den hier schonmal gehört.[br]Der Perfekte Song um ein neues Abenteuer zu starten![br]Nicht wahr?
+initial0 = Willst du die Musik, die du in den einzelnen Kapiteln hörst, austauschen oder sollen wir etwas üben?
+initial0_a = Musik wechseln
+initial0_b = Spielt mir ein Lied
+initial0_c = Tschüss!
+listentomusic_generic0 = In Ordnung, hör dir das an.[br]Es ist ein neues Stück, an dem wir gerade arbeiten!
+listentomusic_bubblegum0 = In Ordnung, putz dir die Ohren.[br]Wir haben das in einem fernen Wüstendorf gehört![br]Es klingt sehr nach Kaugummi! 
+listentomusic_caverave0 = In Ordnung, hör dir das an.[br]Es ist ein neues Stück, an dem wir gerade arbeiten![br]Danach willst du aus irgendeinem Grund unbedingt Kürbissuppe!
+listentomusic_heatdusts0 = Alles klar, hör mal her, wie frisch aus dem Ofen.[br]Eine Art sanfter Song.[br]Perfekt für lange Fahrten!
+listentomusic_foxmask0 = In Ordnung, schalt mal in diesen alten Ohrwurm rein.[br]Er fühlt sich angenehm warm an, ist aber etwas heimtückisch wie ein Fuchs.[br]Sogar etwas gruselig!
+listentomusic_heatgusts0 = In Ordnung, sei ganz Ohr, wir haben gerade an diesem Track gearbeitet.[br]Man hat das Gefühl, als würde man durch die Wüste tanzen.
+listentomusic_moonswing0 = Alles klar, herhören, der hier ist frisch vom Mond.[br][name]Die Lazy Paw Gang[/name] weiß wirklich, wie man wilden, swingenden Jazz schreibt!
+listentomusic_electroswing0 = Schnapp dir den auf, das ist das Lieblingsstück von uns Express-Eulen.[br]Diesmal haben wir etwas frischen Groove draufgelegt.[br]Was sagst du dazu?
+listentomusic_newadventure0 = Okay, den hast du bestimmt schon vorher gehört.[br]Die perfekte Art von Song, um ein neues Abenteuer zu beginnen![br]Meinst du nicht auch?
 
 [trainrush]
-calm0 = Was filmen wir [br]heute? Es gibt keine haltepunkte [br]auf dem Zeitplan...
-calm1 = Haben wir mehr [br]Sprengstoff wie üblich [br]geladen?
-calm2 = Ich hoffe wir nehmen heute [br]nicht so lange auf...
-rush0 = [scream]Wir sind am Ende![/scream]
-rush1 = [scream]Lauf, kid![/scream]
-rush2= [scream]Ist hier eine Bombe auf dem Zug?![/scream]
+calm0 = Was filmen wir heute?[br]Es stehen keine Zwischenstopps[br]auf dem Programm...
+calm1 = Haben wir heute[br]mehr Sprengstoff als sonst[br]geladen?
+calm2 = Ich hoffe, der heutige[br]Dreh dauert nicht zu lange...
+rush0 = [scream]Wir sind verloren![/scream]
+rush1 = [scream]Renn, Kleines![/scream]
+rush2= [scream]Gibt es eine B-Bombe an Bord?![/scream]
 
 [finale]
-outside0 = Was haben wir gemacht? 
-outside01 = Alle unsere Filme waren doch nur Action Filme!
-outside1 = Ich habe niemals [br]ein Verbrechen begangen in meinem Leben!
-outside2 = Sieht so aus als würde ich wieder zu spät zur Arbeit kommen...
-inside0 = Ich kann hier nicht durch! [br]Ich bin keine Stunt Eule!
-inside1 = [scream]Aaaaghhh![/scream]
-attack0 = Zeig [br]mir dein [br]Ticket!
+outside0 = Wofür werden wir verurteilt? 
+outside01 = Alle unsere Filme waren vollwertige Actionfilme!
+outside1 = Ich habe noch nie ein[br]Verbrechen begangen!
+outside2 = Heute komme ich wirklich nicht pünktlich zur Arbeit...
+inside0 = Ich komme da nicht durch![br]Ich bin keine Stunt-Eule!
+inside1 = [scream]Aaaarghhh![/scream]
+attack0 = Gib mir dein[br]Ende-der-Schlange[br]Ticket
